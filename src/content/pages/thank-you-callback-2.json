@@ -1,0 +1,50 @@
+{
+  "urlPath": "/thank-you-callback-2",
+  "slug": "thank-you-callback-2",
+  "title": "Thank You - Callback - Garden Springs Wellness",
+  "h1": "Thank You - Callback - Garden Springs Wellness",
+  "metaDesc": "Thanks for reaching out to Garden Springs Wellness! One of our caring treatment specialists will contact you shortly.",
+  "heroImage": "/media/uploads/2024/11/Garden-springs.png",
+  "blocks": [
+    {
+      "tag": "h2",
+      "text": "Thanks for Contacting Us!"
+    },
+    {
+      "tag": "p",
+      "text": "Thanks for reaching out to Garden Springs Wellness! One of our caring treatment specialists will contact you shortly."
+    },
+    {
+      "tag": "p",
+      "text": "If you need to speak to someone immediately, please call us using the number below."
+    },
+    {
+      "tag": "p",
+      "text": "Mon-Frid: 08:00am-10:00om Weekends: 09:00am - 06:00pm"
+    },
+    {
+      "tag": "p",
+      "text": "[email protected] (877) 537-7905",
+      "runs": [
+        {
+          "t": "[email protected]"
+        },
+        {
+          "t": " "
+        },
+        {
+          "t": "(877) 537-7905",
+          "href": "tel:+1-877-537-7905",
+          "ext": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/uploads/2024/11/Garden-springs.png",
+      "alt": ""
+    }
+  ],
+  "wordCount": 47
+}

@@ -1,0 +1,86 @@
+{
+  "urlPath": "/contact-us",
+  "slug": "contact-us",
+  "title": "Contact Us Today | Mental Health Treatment in New Jersey",
+  "h1": "Contact Garden Springs Wellness",
+  "metaDesc": "Contact us and our team today to get started on your mental health treatment. Call us today to learn more about your treatment options.",
+  "heroImage": null,
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "Contact Garden Springs Wellness"
+    },
+    {
+      "tag": "h2",
+      "text": "Get in Touch",
+      "runs": [
+        {
+          "t": "Get in "
+        },
+        {
+          "t": "Touch",
+          "b": true
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Contact Us"
+    },
+    {
+      "tag": "h3",
+      "text": "We're here to help day or night. No matter what."
+    },
+    {
+      "tag": "p",
+      "text": "Contact us to learn more about how our boutique mental health treatment services in North Jersey can help you find your path to long-term healing & wellness. Our trusted professionals are standing by ready to help.",
+      "runs": [
+        {
+          "t": "Contact us to learn more about how our boutique "
+        },
+        {
+          "t": "mental health treatment services in North Jersey",
+          "b": true,
+          "href": "/"
+        },
+        {
+          "t": " can help you find your path to long-term healing & wellness. Our trusted professionals are standing by ready to help."
+        }
+      ]
+    },
+    {
+      "tag": "h3",
+      "text": "Address"
+    },
+    {
+      "tag": "h3",
+      "text": "Hours"
+    },
+    {
+      "tag": "p",
+      "text": "Mon-Frid: 08:00AM-10:00PM Weekends: 10:00AM-4:00PM"
+    },
+    {
+      "tag": "h3",
+      "text": "Contact"
+    },
+    {
+      "tag": "p",
+      "text": "(866) 413-8877 [email protected]"
+    },
+    {
+      "tag": "h2",
+      "text": "Come Visit Us"
+    },
+    {
+      "tag": "h3",
+      "text": "Send Us a Message"
+    },
+    {
+      "tag": "p",
+      "text": "We'll get back to you as soon as possible."
+    }
+  ],
+  "images": [],
+  "wordCount": 82
+}

@@ -1,0 +1,59 @@
+{
+  "urlPath": "/about-us/beth-rivera",
+  "slug": "about-us/beth-rivera",
+  "title": "Beth Rivera, LCADC, CCS - Clinical Director | GSW",
+  "h1": "Meet Our Clinical Director, Beth Rivera",
+  "metaDesc": "Meet Beth Rivera, LCADC, CCS, our Clinical Director at Garden Springs Wellness in Englewood, NJ. Call today to learn more about Beth.",
+  "heroImage": "/media/uploads/2025/11/AdobeStock_236113508-768x1024.webp",
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "Meet Our Clinical Director, Beth Rivera"
+    },
+    {
+      "tag": "h2",
+      "text": "Beth Rivera, LCADC, CCS"
+    },
+    {
+      "tag": "li",
+      "text": "About Us",
+      "runs": [
+        {
+          "t": "About Us",
+          "href": "/about-us"
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Beth Rivera, LCADC, CCS"
+    },
+    {
+      "tag": "p",
+      "text": "Bethsaida Rivera is a Licensed Certified Alcohol and Drug Counselor (LCADC), and Certified Clinical Supervisor (CCS) with nearly two decades of experience in the behavioral health field. Since beginning her career in 2006, she has provided compassionate, trauma-informed care across multiple levels of treatment, including detox, residential, partial care, and outpatient programs. Her breadth of experience allows her to understand the full continuum of care and provide clients with the support they need at every stage of their recovery and mental health journey."
+    },
+    {
+      "tag": "p",
+      "text": "Bethsaida earned her Master of Human Services with a concentration in Counseling from Lincoln University and has served in progressive leadership roles, including Clinical Director and Executive Director in both mental health and substance use treatment settings. She is highly skilled in developing teams, enhancing program quality, and ensuring ethical, client-centered care."
+    },
+    {
+      "tag": "p",
+      "text": "Clinically, Bethsaida specializes in addiction treatment, trauma recovery, emotional regulation, anxiety and mood disorders, and family systems. She utilizes evidence-based modalities such as Motivational Interviewing and Dialectical Behavior Therapy (DBT) to help clients deepen self-awareness, build healthy coping strategies, and create sustainable, meaningful change. Her therapeutic style is warm, collaborative, and grounded in meeting clients where they are with compassion and respect."
+    },
+    {
+      "tag": "p",
+      "text": "As a Certified Clinical Supervisor, Bethsaida is dedicated to shaping the next generation of clinicians. She provides structured, supportive supervision that fosters growth, confidence, and ethical decision-making while promoting high-quality, culturally responsive care."
+    },
+    {
+      "tag": "p",
+      "text": "Bethsaida is driven by the belief that healing begins with safety and connection. She is committed to helping individuals break free from patterns rooted in trauma, strengthen resilience, and build lives that feel purposeful and fulfilling."
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/uploads/2025/11/AdobeStock_236113508.webp",
+      "alt": ""
+    }
+  ],
+  "wordCount": 282
+}

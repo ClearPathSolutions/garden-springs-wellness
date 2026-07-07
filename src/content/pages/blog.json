@@ -1,0 +1,179 @@
+{
+  "urlPath": "/blog",
+  "slug": "blog",
+  "title": "Blog - Garden Springs Wellness",
+  "h1": "Resources & More",
+  "metaDesc": "Resources & More Latest Blog Articles Garden Springs Wellness Page Free Consultation up-to-date information Latest News & Resources October 16, 2025",
+  "heroImage": "/media/uploads/2025/05/shutterstock_151156964-683x1024.webp",
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "Resources & More"
+    },
+    {
+      "tag": "h2",
+      "text": "Latest Blog Articles",
+      "runs": [
+        {
+          "t": "Latest "
+        },
+        {
+          "t": "Blog",
+          "b": true
+        },
+        {
+          "t": " Articles"
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Blog"
+    },
+    {
+      "tag": "h2",
+      "text": "Latest News & Resources"
+    },
+    {
+      "tag": "h4",
+      "text": "Understanding PTSD in Military Veterans",
+      "runs": [
+        {
+          "t": " Understanding PTSD in Military Veterans ",
+          "href": "/ptsd-in-military-veterans"
+        }
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "CEO & Executive Rehab for Mental Health Treatment",
+      "runs": [
+        {
+          "t": " CEO & Executive Rehab for Mental Health Treatment ",
+          "href": "/executive-rehab-for-mental-health"
+        }
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Find Military Counseling and Supportive Treatment Now",
+      "runs": [
+        {
+          "t": " Find Military Counseling and Supportive Treatment Now ",
+          "href": "/military-counseling-and-treatment"
+        }
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Supporting & Understanding Physician Mental Health Treatment",
+      "runs": [
+        {
+          "t": " Supporting & Understanding Physician Mental Health Treatment ",
+          "href": "/physician-mental-health-treatment"
+        }
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Resources for Harm Reduction in New Jersey",
+      "runs": [
+        {
+          "t": " Resources for Harm Reduction in New Jersey ",
+          "href": "/harm-reduction-in-new-jersey"
+        }
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "The Importance of Medication-Assisted Treatment in 2026",
+      "runs": [
+        {
+          "t": " The Importance of Medication-Assisted Treatment in 2026 ",
+          "href": "/importance-of-medication-assisted-treatment"
+        }
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Discover Effective Young Adult Depression Treatment Now",
+      "runs": [
+        {
+          "t": " Discover Effective Young Adult Depression Treatment Now ",
+          "href": "/young-adult-depression-treatment"
+        }
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Can Depression Cause Anger? Complete Expert Analysis",
+      "runs": [
+        {
+          "t": " Can Depression Cause Anger? Complete Expert Analysis ",
+          "href": "/can-depression-cause-anger"
+        }
+      ]
+    },
+    {
+      "tag": "h4",
+      "text": "Easy Steps To Find Personalized Mental Health Treatment",
+      "runs": [
+        {
+          "t": " Easy Steps To Find Personalized Mental Health Treatment ",
+          "href": "/personalized-mental-health-treatment"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/uploads/2026/03/fmla-mental-health-treatment.webp",
+      "alt": "Therapist speaking with a patient during a mental health treatment session"
+    },
+    {
+      "src": "/media/uploads/2026/01/Catastrophic-Thinking-5-scaled.webp",
+      "alt": "Catastrophic Thinking - Alt Text"
+    },
+    {
+      "src": "/media/uploads/2026/02/benefits-of-rest-9-scaled-1.webp",
+      "alt": "Woman understanding the benefits of resting for your mental health"
+    },
+    {
+      "src": "/media/uploads/2026/01/Military-Counseling-2-scaled.webp",
+      "alt": "Doctors counseling a military soldier with his mental health treatment"
+    },
+    {
+      "src": "/media/uploads/2026/02/executive-rehab.webp",
+      "alt": "Executives mental health rehab support system"
+    },
+    {
+      "src": "/media/uploads/2026/01/Military-Counseling-scaled.webp",
+      "alt": "Military counseling for mental health"
+    },
+    {
+      "src": "/media/uploads/2026/01/Physician-Mental-Health-2-scaled.webp",
+      "alt": "Physician Mental Health - Alt Text"
+    },
+    {
+      "src": "/media/uploads/2025/09/shutterstock_2466156867-1-scaled.webp",
+      "alt": "Harm Reduction in New Jersey"
+    },
+    {
+      "src": "/media/uploads/2026/01/shutterstock_526087327-scaled.webp",
+      "alt": "Importance of medication-assisted treatment"
+    },
+    {
+      "src": "/media/uploads/2026/01/Young-Adult-Depression-Treatment-3-scaled.webp",
+      "alt": "Stressed young woman suffering with her depression treatment"
+    },
+    {
+      "src": "/media/uploads/2026/01/Can-Depression-Cause-Anger-scaled.webp",
+      "alt": "Can Depression Cause Anger - Alt Text"
+    },
+    {
+      "src": "/media/uploads/2025/01/hrant-khachatryan-xYBt32xze7g-unsplash-scaled.webp",
+      "alt": "Counselor helping a woman struggling with her mental health"
+    }
+  ],
+  "wordCount": 74
+}

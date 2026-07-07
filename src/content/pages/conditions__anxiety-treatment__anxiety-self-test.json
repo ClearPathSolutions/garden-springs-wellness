@@ -1,0 +1,431 @@
+{
+  "urlPath": "/conditions/anxiety-treatment/anxiety-self-test",
+  "slug": "conditions/anxiety-treatment/anxiety-self-test",
+  "title": "Do You Have Anxiety? | Take Our Self Assessment & Get Help",
+  "h1": "Anxiety Self Test",
+  "metaDesc": "Take our anxiety self test to understand your symptoms and explore effective anxiety treatment options at Garden Springs Wellness.",
+  "heroImage": "/media/uploads/2024/11/kateryna-hliznitsova-oryY0hf39LA-unsplash-684x1024.webp",
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "Anxiety Self Test",
+      "runs": [
+        {
+          "t": "Anxiety",
+          "b": true
+        },
+        {
+          "t": " Self Test"
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Reviewed On: March 16, 2026"
+    },
+    {
+      "tag": "li",
+      "text": "What We Treat",
+      "runs": [
+        {
+          "t": "What We Treat",
+          "href": "/conditions"
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Anxiety Treatment",
+      "runs": [
+        {
+          "t": "Anxiety Treatment",
+          "href": "/conditions/anxiety-treatment"
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Anxiety Self Test"
+    },
+    {
+      "tag": "h3",
+      "text": "About Our Anxiety Test and Mental Health Treatment"
+    },
+    {
+      "tag": "p",
+      "text": "Anxiety affects people in many different ways. Some feel constant worry that never settles. Others notice physical tension, trouble sleeping, or a mind that keeps racing. Anxiety can also make everyday tasks feel heavier than they should.",
+      "runs": [
+        {
+          "t": "Anxiety affects people in many different ways. Some feel constant worry that never settles. Others notice physical tension, trouble sleeping, or a "
+        },
+        {
+          "t": "mind that keeps racing",
+          "href": "/conditions/anxiety-treatment/when-anxiety-becomes-a-mental-health-disorder"
+        },
+        {
+          "t": ". Anxiety can also make everyday tasks feel heavier than they should."
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "When these symptoms begin to interfere with work, relationships, or your ability to enjoy life, it may be time to explore anxiety treatment. The encouraging news is that anxiety responds well to the right support. Many people feel more grounded, more confident, and more in control of their thoughts once they receive anxiety treatment at a mental health center.",
+      "runs": [
+        {
+          "t": "When these symptoms begin to interfere with work, relationships, or your ability to enjoy life, it may be time to explore anxiety treatment. The encouraging news is that anxiety responds well to the right support. Many people feel more grounded, more confident, and more in control of their thoughts once they receive anxiety treatment at a "
+        },
+        {
+          "t": "mental health center",
+          "href": "/"
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "This short anxiety self test can help you reflect on your recent experiences. It is not a diagnosis. Only a licensed professional can diagnose an anxiety disorder. If you answer “yes” to several questions or recognize patterns that feel familiar, it may be a sign that you could benefit from a conversation with Garden Springs Wellness about anxiety treatment options and next steps."
+    },
+    {
+      "tag": "h2",
+      "text": "Anxiety Disorder Self Test: 12 Questions"
+    },
+    {
+      "tag": "p",
+      "text": "Answer each question with Yes or No.",
+      "runs": [
+        {
+          "t": "Answer each question with "
+        },
+        {
+          "t": "Yes",
+          "b": true
+        },
+        {
+          "t": " or "
+        },
+        {
+          "t": "No",
+          "b": true
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Do you feel worried or on edge most days?"
+    },
+    {
+      "tag": "li",
+      "text": "Do your thoughts jump from one concern to another?"
+    },
+    {
+      "tag": "li",
+      "text": "Do you struggle to relax, even during downtime?"
+    },
+    {
+      "tag": "li",
+      "text": "Do you feel tension in your shoulders, jaw, or stomach?"
+    },
+    {
+      "tag": "li",
+      "text": "Do you have trouble falling asleep or staying asleep because of worry?"
+    },
+    {
+      "tag": "li",
+      "text": "Do you avoid situations because you fear they will make you anxious?"
+    },
+    {
+      "tag": "li",
+      "text": "Do you feel overwhelmed by everyday decisions or responsibilities?"
+    },
+    {
+      "tag": "li",
+      "text": "Do you experience sudden moments of fear or panic?"
+    },
+    {
+      "tag": "li",
+      "text": "Do you worry about things that others say seem small or manageable?"
+    },
+    {
+      "tag": "li",
+      "text": "Do you feel irritable or easily frustrated?"
+    },
+    {
+      "tag": "li",
+      "text": "Do you have trouble concentrating because your mind feels busy?"
+    },
+    {
+      "tag": "li",
+      "text": "Do you feel like anxiety is affecting your work, relationships, or health?"
+    },
+    {
+      "tag": "p",
+      "text": "If you answered Yes to several questions, or if your symptoms have been growing stronger, it may be a sign that treatment for anxiety at a mental health center could make a real difference in your life. Many people feel relief once they talk with a professional who understands anxiety and knows how to treat it.",
+      "runs": [
+        {
+          "t": "If you answered "
+        },
+        {
+          "t": "Yes",
+          "b": true
+        },
+        {
+          "t": " to several questions, or if your symptoms have been growing stronger, it may be a sign that "
+        },
+        {
+          "t": "treatment for anxiety at a mental health center",
+          "href": "/treatment"
+        },
+        {
+          "t": " could make a real difference in your life. Many people feel relief once they talk with a professional who understands anxiety and knows how to treat it."
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "How Garden Springs Wellness Treats Anxiety Disorders"
+    },
+    {
+      "tag": "p",
+      "text": "Garden Springs Wellness provides a calm, supportive environment where you can explore what you have been feeling and learn practical skills that help you move forward. Our team specializes in anxiety treatment and understands how anxiety affects both the mind and the body. We take time to learn your story, your stressors, and your goals so we can create a personalized treatment plan that fits your life.",
+      "runs": [
+        {
+          "t": "Garden Springs Wellness",
+          "b": true
+        },
+        {
+          "t": " provides a calm, supportive environment where you can explore what you have been feeling and learn practical skills that help you move forward. Our team specializes in anxiety treatment and understands how anxiety affects both the mind and the body. We take time to learn your story, your stressors, and your goals so we can create a personalized treatment plan that fits your life."
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Our approach to anxiety treatment includes evidence based therapies, lifestyle strategies, and supportive guidance. You will learn how to identify triggers, manage physical symptoms, and shift unhelpful thought patterns. You will also gain tools that help you feel more present, more capable, and more connected to the people and activities that matter to you. Many clients begin to feel more in control once they understand their symptoms and have a clear plan for managing them."
+    },
+    {
+      "tag": "p",
+      "text": "What You Can Expect at Garden Springs Wellness",
+      "runs": [
+        {
+          "t": "What You Can Expect at Garden Springs Wellness",
+          "b": true
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "A personalized anxiety treatment plan tailored to your needs"
+    },
+    {
+      "tag": "li",
+      "text": "Therapists who specialize in anxiety, stress, and related conditions",
+      "runs": [
+        {
+          "t": "Therapists who specialize in anxiety, stress, and "
+        },
+        {
+          "t": "related conditions",
+          "href": "/conditions"
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Practical coping skills you can use in daily life"
+    },
+    {
+      "tag": "li",
+      "text": "Support with sleep, emotional regulation, and stress management"
+    },
+    {
+      "tag": "li",
+      "text": "A welcoming environment that encourages honesty and growth"
+    },
+    {
+      "tag": "li",
+      "text": "Clear communication about your progress and next steps"
+    },
+    {
+      "tag": "p",
+      "text": "Our goal is to help you feel understood, supported, and empowered. Anxiety can feel isolating, but you do not have to navigate it alone. With the right treatment, many people experience meaningful and lasting relief."
+    },
+    {
+      "tag": "h2",
+      "text": "What To Do Next About Treating Anxiety"
+    },
+    {
+      "tag": "p",
+      "text": "If this anxiety self test raised concerns or confirmed what you have been experiencing, reach out to Garden Springs Wellness. Our team offers compassionate, personalized anxiety treatment that helps you understand your symptoms and build the skills you need to feel better. This page is here to guide you, and our team is here to support you as you take the next step toward clarity, confidence, and a healthier future.",
+      "runs": [
+        {
+          "t": "If this anxiety self test raised concerns or confirmed what you have been experiencing, "
+        },
+        {
+          "t": "reach out to Garden Springs Wellness",
+          "href": "/contact-us"
+        },
+        {
+          "t": ". Our team offers compassionate, personalized anxiety treatment that helps you understand your symptoms and build the skills you need to feel better. This page is here to guide you, and our team is here to support you as you take the next step toward clarity, confidence, and a healthier future."
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "SOURCES:",
+      "runs": [
+        {
+          "t": "SOURCES:",
+          "i": true,
+          "b": true
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Anxiety Disorders — National Institute of Mental Health (NIMH) Anxiety: What You Need to Know — NIH Medline Plus Treatment of Anxiety Disorders — PMC / NIH",
+      "runs": [
+        {
+          "t": "Anxiety Disorders",
+          "href": "https://www.nimh.nih.gov/health/topics/anxiety-disorders",
+          "ext": true
+        },
+        {
+          "t": " — National Institute of Mental Health (NIMH) "
+        },
+        {
+          "t": "Anxiety: What You Need to Know",
+          "href": "https://magazine.medlineplus.gov/article/anxiety-what-you-need-to-know",
+          "ext": true
+        },
+        {
+          "t": " — NIH Medline Plus "
+        },
+        {
+          "t": "Treatment of Anxiety Disorders",
+          "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5573566/",
+          "ext": true
+        },
+        {
+          "t": " — PMC / NIH"
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Anxiety Disorders — National Institute of Mental Health (NIMH)",
+      "runs": [
+        {
+          "t": "Anxiety Disorders",
+          "href": "https://www.nimh.nih.gov/health/topics/anxiety-disorders",
+          "ext": true
+        },
+        {
+          "t": " — National Institute of Mental Health (NIMH)"
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Anxiety: What You Need to Know — NIH Medline Plus",
+      "runs": [
+        {
+          "t": "Anxiety: What You Need to Know",
+          "href": "https://magazine.medlineplus.gov/article/anxiety-what-you-need-to-know",
+          "ext": true
+        },
+        {
+          "t": " — NIH Medline Plus"
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Treatment of Anxiety Disorders — PMC / NIH",
+      "runs": [
+        {
+          "t": "Treatment of Anxiety Disorders",
+          "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5573566/",
+          "ext": true
+        },
+        {
+          "t": " — PMC / NIH"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/uploads/2024/11/kateryna-hliznitsova-oryY0hf39LA-unsplash-scaled.webp",
+      "alt": "Woman journaling about her mental health"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-copy.webp",
+      "alt": "Aetna black logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-7.webp",
+      "alt": "Horizon Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-2-copy.webp",
+      "alt": "Cigna Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-13.webp",
+      "alt": "Highmark Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-2.webp",
+      "alt": "BlueCross BlueShield Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-9.webp",
+      "alt": "Empire Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-8.webp",
+      "alt": "NYSHIP Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-4.webp",
+      "alt": "Magellan Health Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-5.webp",
+      "alt": "Multiplan Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-6.webp",
+      "alt": "Anthem Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-11.webp",
+      "alt": "GEHA Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-1-copy.webp",
+      "alt": "UnitedHealthcare Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-1.webp",
+      "alt": "Beacon Health Options Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-12.webp",
+      "alt": "HarvardPilgrim HealthCare Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-14.webp",
+      "alt": "UMR Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-15.webp",
+      "alt": "Meritain Health Black Logo"
+    }
+  ],
+  "wordCount": 746
+}

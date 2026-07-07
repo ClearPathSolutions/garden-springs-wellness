@@ -1,0 +1,127 @@
+{
+  "urlPath": "/verify-insurance",
+  "slug": "verify-insurance",
+  "title": "Insurance Verification | Get Started Today With Treatment",
+  "h1": "Get a Free Verification of Benefits right now",
+  "metaDesc": "Don't let financial burdens get in the way of your mental health treatment. Contact our team today to get verified for insurance and benefits.",
+  "heroImage": "/media/uploads/2024/11/insurance-copy.webp",
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "Get a Free Verification of Benefits right now"
+    },
+    {
+      "tag": "h2",
+      "text": "Verify Insurance",
+      "runs": [
+        {
+          "t": "Verify "
+        },
+        {
+          "t": "Insurance",
+          "b": true
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Insurance Verification"
+    },
+    {
+      "tag": "h3",
+      "text": "We Work With Most Major Insurance Carriers"
+    },
+    {
+      "tag": "p",
+      "text": "At Garden Springs Wellness, we don’t let things like financial barriers get in the way of treatment. We work with most major commercial insurance companies to help cover many of the costs associated with our mental health programs in New Jersey.",
+      "runs": [
+        {
+          "t": "At Garden Springs Wellness, we don’t let things like financial barriers get in the way of treatment. We work with most major commercial insurance companies to help cover many of the costs associated with our "
+        },
+        {
+          "t": "mental health programs in New Jersey",
+          "href": "/",
+          "b": true
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "If you don’t see your insurance company listed below, don’t worry! We work and extensive list of insurance providers, so there’s a chance we accept your insurance plan."
+    },
+    {
+      "tag": "p",
+      "text": "*We are unable to accept Medicare or Medicare plans at this time.*"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/uploads/2024/11/insurance-copy.webp",
+      "alt": "Aetna black logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-7.webp",
+      "alt": "Horizon Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-2-copy.webp",
+      "alt": "Cigna Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-13.webp",
+      "alt": "Highmark Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-2.webp",
+      "alt": "BlueCross BlueShield Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-9.webp",
+      "alt": "Empire Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-8.webp",
+      "alt": "NYSHIP Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-4.webp",
+      "alt": "Magellan Health Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-5.webp",
+      "alt": "Multiplan Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-6.webp",
+      "alt": "Anthem Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-11.webp",
+      "alt": "GEHA Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-1-copy.webp",
+      "alt": "UnitedHealthcare Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-1.webp",
+      "alt": "Beacon Health Options Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-12.webp",
+      "alt": "HarvardPilgrim HealthCare Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-14.webp",
+      "alt": "UMR Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-15.webp",
+      "alt": "Meritain Health Black Logo"
+    }
+  ],
+  "wordCount": 100
+}

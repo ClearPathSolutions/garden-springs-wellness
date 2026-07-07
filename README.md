@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Garden Springs Wellness — Website
 
-## Getting Started
+A modern, mobile-first rebuild of [gardenspringswellness.com](https://gardenspringswellness.com)
+migrated from WordPress/Elementor to **Next.js 16 (App Router) + Tailwind v4**, ready to deploy
+on **Vercel**.
 
-First, run the development server:
+All original content (101 pages, ~129k words) and imagery were migrated, then rebuilt on a
+clean, brand-accurate design system.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Tech stack
+
+- **Next.js 16** (App Router, React 19, Turbopack)
+- **Tailwind CSS v4** (design tokens in `src/app/globals.css`)
+- **TypeScript**
+- `next/font` — Cormorant Garamond (serif display) + DM Sans (body)
+- `next/image` — automatic AVIF/WebP optimization
+
+## Project structure
+
+```
+src/
+  app/
+    page.tsx                 # Custom home page
+    [...slug]/page.tsx       # Catch-all: renders 95 content pages from data
+    about-us/ contact-us/ verify-insurance/ tour/ blog/   # Bespoke pages
+    api/lead/route.ts        # Form submission endpoint (see "Forms" below)
+    sitemap.ts robots.ts     # SEO
+  components/                # Header, Footer, templates, UI, forms, icons
+  content/
+    pages/*.json             # Cleaned content for every migrated page
+    registry.json            # Page index used for routing & navigation
+    posts.json               # Blog-post slugs
+  lib/
+    site.ts                  # Contact info, hours, social, navigation model
+    content.ts               # Content loader + page categorization
+public/
+  media/uploads/**           # Migrated images (optimized at build time)
+  brand/  icons/             # Logo variants, favicon, therapy icons
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The messy Elementor HTML was mirrored and parsed into structured JSON
+(`src/content/pages`) so pages render from data through a small set of templates —
+easy to edit without touching layout code.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Local development
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm install
+npm run dev        # http://localhost:3000
+npm run build      # production build
+npm start          # serve the production build
+```
 
-## Learn More
+## Deploy to Vercel
 
-To learn more about Next.js, take a look at the following resources:
+1. Push this folder to a Git repo (GitHub/GitLab/Bitbucket).
+2. In Vercel: **Add New → Project → Import** the repo.
+3. Framework preset auto-detects **Next.js**. No build-setting changes needed. Click **Deploy**.
+4. Add your domain (`gardenspringswellness.com`) under **Project → Settings → Domains**.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Or from the CLI:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+npm i -g vercel
+vercel          # preview deploy
+vercel --prod   # production deploy
+```
 
-## Deploy on Vercel
+## Forms (action required before launch)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The Contact and Verify-Insurance forms POST to `src/app/api/lead/route.ts`, which currently
+validates and logs the submission, then sends the user to the matching thank-you page.
+**Wire it to your email/CRM** before going live — e.g. Resend, SendGrid, or a HubSpot/Salesforce
+webhook. See the `TODO` in that file.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Editing content
+
+- **Copy / text:** edit the relevant file in `src/content/pages/*.json` (blocks render in order) —
+  or hand-build a page under `src/app/`.
+- **Navigation, phone, address, hours, social:** `src/lib/site.ts`.
+- **Colors / fonts / spacing:** the `@theme` block in `src/app/globals.css`.
+
+## SEO
+
+- Per-page `<title>` / meta descriptions carried over from the original site.
+- `/sitemap.xml`, `/robots.txt`, canonical URLs, OpenGraph/Twitter cards.
+- `MedicalClinic` JSON-LD structured data (see `src/app/layout.tsx`).
+
+## Notes
+
+- `_source/` (the raw WordPress mirror + migration scripts) is git-ignored and not deployed.
+- Crisis disclaimer (988 / 911) is included in the footer, appropriate for a behavioral-health site.

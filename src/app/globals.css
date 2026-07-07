@@ -1,26 +1,211 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* ============================================================
+   Garden Springs Wellness — Design System
+   Brand: forest green + gold + cream. Serif display + clean sans.
+   ============================================================ */
+
+@theme {
+  /* Brand palette ------------------------------------------------ */
+  --color-forest-950: #0c1f19;
+  --color-forest-900: #14312a; /* primary brand */
+  --color-forest-800: #1c4238;
+  --color-forest-700: #245448;
+  --color-forest-600: #2f6a5a;
+  --color-forest-500: #3d8271;
+  --color-forest-400: #6aa596;
+  --color-forest-300: #9ec6ba;
+  --color-forest-200: #c8e0d8;
+  --color-forest-100: #e5f0eb;
+  --color-forest-50: #f1f7f4;
+
+  --color-gold-500: #b68d40; /* accent */
+  --color-gold-400: #c6a25f;
+  --color-gold-300: #d8bd8a;
+  --color-gold-200: #e8d6b6;
+  --color-gold-100: #f3e9d6;
+
+  --color-cream: #fdf9ed;
+  --color-sand: #f9f9f7;
+  --color-ink: #1a2420;
+  --color-muted: #5b665f;
+
+  /* Semantic tokens --------------------------------------------- */
+  --color-background: #ffffff;
+  --color-foreground: var(--color-ink);
+
+  /* Typography --------------------------------------------------- */
+  --font-serif: var(--font-cormorant), Georgia, "Times New Roman", serif;
+  --font-sans: var(--font-dm-sans), ui-sans-serif, system-ui, -apple-system, sans-serif;
+
+  /* Radii + shadows --------------------------------------------- */
+  --radius-xl: 1.25rem;
+  --radius-2xl: 1.75rem;
+  --shadow-soft: 0 1px 2px rgba(20, 49, 42, 0.04), 0 12px 32px -12px rgba(20, 49, 42, 0.18);
+  --shadow-card: 0 2px 6px rgba(20, 49, 42, 0.05), 0 20px 40px -24px rgba(20, 49, 42, 0.25);
+
+  /* Animations --------------------------------------------------- */
+  --animate-fade-up: fade-up 0.7s cubic-bezier(0.16, 1, 0.3, 1) both;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
 
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  /* clip (not hidden) avoids breaking the sticky header while preventing x-overflow */
+  overflow-x: clip;
+}
+
+::selection {
+  background: var(--color-gold-200);
+  color: var(--color-forest-900);
+}
+
+/* Display serif headings */
+.font-display {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  line-height: 1.08;
+}
+
+/* Small caps label used throughout the brand (mirrors "WELLNESS CENTER") */
+.eyebrow {
+  font-family: var(--font-sans);
+  text-transform: uppercase;
+  letter-spacing: 0.22em;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+
+/* Long-form article typography for content pages */
+.prose-gsw {
+  font-size: 1.0625rem;
+  line-height: 1.8;
+  color: var(--color-muted);
+}
+.prose-gsw h2 {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  font-size: clamp(1.6rem, 3vw, 2.1rem);
+  line-height: 1.15;
+  color: var(--color-forest-900);
+  margin: 2.4rem 0 0.9rem;
+  letter-spacing: -0.01em;
+  scroll-margin-top: 6rem; /* clear the sticky header on anchor jumps */
+}
+.prose-gsw h3 {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  font-size: clamp(1.3rem, 2.4vw, 1.6rem);
+  color: var(--color-forest-800);
+  margin: 1.9rem 0 0.6rem;
+  scroll-margin-top: 6rem;
+}
+.prose-gsw h4 {
+  font-family: var(--font-sans);
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: var(--color-forest-800);
+  margin: 1.5rem 0 0.4rem;
+}
+.prose-gsw p {
+  margin: 0 0 1.15rem;
+  color: var(--color-ink);
+  opacity: 0.86;
+}
+.prose-gsw ul {
+  margin: 0 0 1.3rem;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  gap: 0.6rem;
+}
+.prose-gsw li {
+  position: relative;
+  padding-left: 1.7rem;
+  color: var(--color-ink);
+  opacity: 0.88;
+}
+.prose-gsw li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.62em;
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 9999px;
+  background: var(--color-gold-500);
+}
+
+/* References / Sources — compact, numbered, with wrapping long URLs */
+.prose-gsw ol.references {
+  counter-reset: ref;
+  margin: 1.2rem 0 0;
+  padding: 1.4rem 1.5rem;
+  display: grid;
+  gap: 0.7rem;
+  list-style: none;
+  border-top: 1px solid rgba(20, 49, 42, 0.1);
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+.prose-gsw ol.references li {
+  counter-increment: ref;
+  position: relative;
+  padding-left: 2rem;
+  color: var(--color-muted);
+  opacity: 1;
+  overflow-wrap: anywhere;
+}
+.prose-gsw ol.references li::before {
+  content: counter(ref);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1.35rem;
+  height: 1.35rem;
+  border-radius: 9999px;
+  background: var(--color-forest-50);
+  color: var(--color-forest-700);
+  font-size: 0.72rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Reveal-on-scroll baseline (progressively enhanced by JS) */
+@media (prefers-reduced-motion: no-preference) {
+  .reveal {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1),
+      transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+    will-change: opacity, transform;
+  }
+  .reveal.is-visible {
+    opacity: 1;
+    transform: none;
+  }
 }

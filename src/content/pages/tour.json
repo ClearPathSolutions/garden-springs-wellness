@@ -1,0 +1,240 @@
+{
+  "urlPath": "/tour",
+  "slug": "tour",
+  "title": "Tour Our Facilities | Explore Our Mental Health Clinic",
+  "h1": "Tour Our Mental Health Treatment Center in Englewood",
+  "metaDesc": "Explore and tour our mental health treatment center in New Jersey. Contact our team to learn more about our programs and get started now.",
+  "heroImage": "/media/uploads/2026/04/garden-springs-wellness-51-scaled-1.webp",
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "Tour Our Mental Health Treatment Center in Englewood"
+    },
+    {
+      "tag": "h2",
+      "text": "Explore Our Mental Health Treatment Facilities",
+      "runs": [
+        {
+          "t": "Explore Our "
+        },
+        {
+          "t": "Mental Health",
+          "b": true
+        },
+        {
+          "t": " Treatment Facilities"
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Explore Facilities"
+    },
+    {
+      "tag": "h3",
+      "text": "At Garden Springs Wellness Center, we are dedicated to providing a nurturing and empowering environment for those seeking mental health treatment. Our facility in Englewood, New Jersey, stands as a testament to our commitment to offering unparalleled care and comfort."
+    },
+    {
+      "tag": "p",
+      "text": "We understand the unique challenges you face, and we have designed our facilities to support your journey towards mental wellness and recovery with compassion, expertise, and a touch of elegance.",
+      "runs": [
+        {
+          "t": "We understand the unique challenges you face, and we have designed our facilities to support your journey towards "
+        },
+        {
+          "t": "mental wellness and recovery",
+          "href": "/",
+          "b": true
+        },
+        {
+          "t": " with compassion, expertise, and a touch of elegance."
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Our state-of-the-art treatment center is equipped with the latest technology and amenities to ensure an optimal healing experience. Each element of our facility is designed with your comfort and well-being in mind. From our welcoming reception area to our private counseling rooms and group therapy spaces, we have created an environment that fosters relaxation, safety, and positive transformation."
+    },
+    {
+      "tag": "h2",
+      "text": "What to Expect At Garden Springs Wellness"
+    },
+    {
+      "tag": "h2",
+      "text": "A Facility Designed with Your Lasting Wellness in Mind"
+    },
+    {
+      "tag": "h4",
+      "text": "Aromatherapy"
+    },
+    {
+      "tag": "h4",
+      "text": "Mindfulness"
+    },
+    {
+      "tag": "h4",
+      "text": "Sand Therapy"
+    },
+    {
+      "tag": "h4",
+      "text": "Sound Therapy"
+    },
+    {
+      "tag": "h2",
+      "text": "Additional Features & Amenities"
+    },
+    {
+      "tag": "h2",
+      "text": "Restore Your Balance. Transform Your Life."
+    },
+    {
+      "tag": "p",
+      "text": "Welcome to a new era of mental health treatment in New Jersey and beyond at Garden Springs Wellness. We have assembled a team of multidisciplinary professionals to help you live your best life."
+    },
+    {
+      "tag": "p",
+      "text": "You deserve a future free of trauma, depression and anxiety.",
+      "runs": [
+        {
+          "t": "You deserve a future free of trauma, depression and anxiety",
+          "b": true,
+          "i": true
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Let us help you begin your journey today."
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/uploads/2026/04/garden-springs-wellness-51-scaled-1.webp",
+      "alt": ""
+    },
+    {
+      "src": "/media/uploads/2025/01/Garden-Springs-Wellness-2-scaled.webp",
+      "alt": "Image #3"
+    },
+    {
+      "src": "/media/uploads/2025/01/Garden-Springs-Wellness-scaled.webp",
+      "alt": "Image #6"
+    },
+    {
+      "src": "/media/uploads/2026/04/garden-springs-wellness-4-scaled-1.webp",
+      "alt": "Image #5"
+    },
+    {
+      "src": "/media/uploads/2025/01/Garden-Springs-Wellness-5-scaled.webp",
+      "alt": "Image #4"
+    },
+    {
+      "src": "/media/uploads/2026/04/garden-springs-wellness-10-scaled-1.webp",
+      "alt": "Image #6"
+    },
+    {
+      "src": "/media/uploads/2025/01/Garden-Springs-Wellness-13-scaled.webp",
+      "alt": "Image #6"
+    },
+    {
+      "src": "/media/uploads/2026/04/garden-springs-wellness-16-scaled-1-1.webp",
+      "alt": "Image #6"
+    },
+    {
+      "src": "/media/uploads/2025/01/Garden-Springs-Wellness-12-scaled.webp",
+      "alt": "Image #6"
+    },
+    {
+      "src": "/media/uploads/2025/01/Garden-Springs-Wellness-26-scaled.webp",
+      "alt": "Image #6"
+    },
+    {
+      "src": "/media/uploads/2026/04/garden-springs-wellness-3-scaled-1.webp",
+      "alt": "Image #6"
+    },
+    {
+      "src": "/media/uploads/2026/04/garden-springs-wellness-32-scaled-1.webp",
+      "alt": "Image #6"
+    },
+    {
+      "src": "/media/uploads/2025/01/Garden-Springs-Wellness-22-scaled.webp",
+      "alt": "Image #6"
+    },
+    {
+      "src": "/media/uploads/2025/01/Garden-Springs-Wellness-24-scaled.webp",
+      "alt": "Image #6"
+    },
+    {
+      "src": "/media/uploads/2026/04/garden-springs-wellness-38.webp",
+      "alt": "Waiting in the lobby of Garden Springs Wellness"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-copy.webp",
+      "alt": "Aetna black logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-7.webp",
+      "alt": "Horizon Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-2-copy.webp",
+      "alt": "Cigna Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-13.webp",
+      "alt": "Highmark Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-2.webp",
+      "alt": "BlueCross BlueShield Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-9.webp",
+      "alt": "Empire Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-8.webp",
+      "alt": "NYSHIP Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-4.webp",
+      "alt": "Magellan Health Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-5.webp",
+      "alt": "Multiplan Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-6.webp",
+      "alt": "Anthem Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-11.webp",
+      "alt": "GEHA Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-1-copy.webp",
+      "alt": "UnitedHealthcare Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-1.webp",
+      "alt": "Beacon Health Options Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-12.webp",
+      "alt": "HarvardPilgrim HealthCare Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-14.webp",
+      "alt": "UMR Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-15.webp",
+      "alt": "Meritain Health Black Logo"
+    }
+  ],
+  "wordCount": 227
+}

@@ -1,0 +1,389 @@
+{
+  "urlPath": "/conditions/depression/depression-self-test",
+  "slug": "conditions/depression/depression-self-test",
+  "title": "Depression Self Assessment | Do You Have Depression?",
+  "h1": "Depression Self Test",
+  "metaDesc": "Take our depression self test to understand your symptoms and explore effective treatment for depression at Garden Springs Wellness.",
+  "heroImage": "/media/uploads/elementor/thumbs/depression-self-test-woman-rkz3fuk4jidfchtbq9wwuhqos4efyz738yy72dj400.webp",
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "Depression Self Test",
+      "runs": [
+        {
+          "t": "Depression",
+          "b": true
+        },
+        {
+          "t": " Self Test"
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Reviewed On: March 16, 2026"
+    },
+    {
+      "tag": "li",
+      "text": "What We Treat",
+      "runs": [
+        {
+          "t": "What We Treat",
+          "href": "/conditions"
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Depression Treatment",
+      "runs": [
+        {
+          "t": "Depression Treatment",
+          "href": "/conditions/depression"
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Depression Self-Test"
+    },
+    {
+      "tag": "h3",
+      "text": "About Our Depression Test and Mental Health Treatment"
+    },
+    {
+      "tag": "p",
+      "text": "Depression affects people in many different ways. Some feel a deep sense of sadness that doesn’t lift. Others notice a loss of interest in activities they once enjoyed, changes in sleep or appetite, or a constant feeling of exhaustion. Depression can also make everyday tasks feel overwhelming, even when nothing specific has changed."
+    },
+    {
+      "tag": "p",
+      "text": "When these symptoms begin to interfere with work, relationships, or your ability to enjoy life, it may be time to explore depression treatment. The encouraging news is that depression is highly treatable. With the right support, many people begin to feel more hopeful, more energized, and more connected to themselves and others."
+    },
+    {
+      "tag": "p",
+      "text": "This short depression self test can help you reflect on your recent experiences. It is not a diagnosis. Only a licensed professional can diagnose a depressive disorder. If you answer “yes” to several questions or recognize patterns that feel familiar, it may be a sign that you could benefit from a conversation with Garden Springs Wellness Center about depression treatment options and next steps.",
+      "runs": [
+        {
+          "t": "This short depression self test can help you reflect on your recent experiences. It is not a diagnosis. Only a licensed professional can diagnose a depressive disorder. If you answer “yes” to several questions or recognize patterns that feel familiar, it may be a sign that you could benefit from a conversation with "
+        },
+        {
+          "t": "Garden Springs Wellness Center",
+          "b": true
+        },
+        {
+          "t": " about "
+        },
+        {
+          "t": "depression treatment options",
+          "href": "/"
+        },
+        {
+          "t": " and next steps."
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Depression Self Test: 12 Questions"
+    },
+    {
+      "tag": "p",
+      "text": "Answer each question with Yes or No.",
+      "runs": [
+        {
+          "t": "Answer each question with Yes or No.",
+          "b": true
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Have you been feeling sad, down, or hopeless most days?"
+    },
+    {
+      "tag": "li",
+      "text": "Have you lost interest in activities you used to enjoy?"
+    },
+    {
+      "tag": "li",
+      "text": "Do you feel tired or low‑energy even after resting?"
+    },
+    {
+      "tag": "li",
+      "text": "Have you noticed changes in your sleep, such as sleeping too much or too little?"
+    },
+    {
+      "tag": "li",
+      "text": "Have you experienced changes in appetite or weight without trying?"
+    },
+    {
+      "tag": "li",
+      "text": "Do you find it hard to concentrate or make decisions?"
+    },
+    {
+      "tag": "li",
+      "text": "Do you feel guilty, worthless, or unusually hard on yourself?"
+    },
+    {
+      "tag": "li",
+      "text": "Do you feel emotionally numb or disconnected from others?"
+    },
+    {
+      "tag": "li",
+      "text": "Have you withdrawn from friends, family, or social activities?"
+    },
+    {
+      "tag": "li",
+      "text": "Do everyday tasks feel overwhelming or unusually difficult?"
+    },
+    {
+      "tag": "li",
+      "text": "Have you noticed a slower pace in your thinking, speaking, or movement?"
+    },
+    {
+      "tag": "li",
+      "text": "Do you feel like depression is affecting your work, relationships, or health?"
+    },
+    {
+      "tag": "h2",
+      "text": "How to Interpret Your Depression Self-Test Answers"
+    },
+    {
+      "tag": "p",
+      "text": "If you answered Yes to several questions, or if your symptoms have been growing stronger, it may be a sign that treatment for depression at a mental health center could make a meaningful difference in your life. Many people feel relief once they talk with a professional who understands depression and knows how to treat it.",
+      "runs": [
+        {
+          "t": "If you answered "
+        },
+        {
+          "t": "Yes",
+          "b": true
+        },
+        {
+          "t": " to several questions, or if your symptoms have been growing stronger, it may be a sign that "
+        },
+        {
+          "t": "treatment for depression",
+          "href": "/conditions"
+        },
+        {
+          "t": " at a mental health center could make a meaningful difference in your life. Many people feel relief once they talk with a professional who understands depression and knows how to treat it."
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "How Garden Springs Wellness Treats Depression"
+    },
+    {
+      "tag": "p",
+      "text": "Garden Springs Wellness provides a calm, supportive environment where you can explore what you have been feeling and learn practical skills that help you move forward. Our team specializes in depression treatment and understands how depression affects both the mind and the body. We take time to learn your story, your stressors, and your goals so we can create a personalized treatment plan that fits your life.",
+      "runs": [
+        {
+          "t": "Garden Springs Wellness provides a calm, supportive environment",
+          "href": "/about-us"
+        },
+        {
+          "t": " where you can explore what you have been feeling and learn practical skills that help you move forward. Our team specializes in depression treatment and understands how depression affects both the mind and the body. We take time to learn your story, your stressors, and your goals so we can create a personalized treatment plan that fits your life."
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Our approach to depression treatment includes evidence‑based therapies, lifestyle strategies, and supportive guidance. You will learn how to challenge unhelpful thought patterns, build healthier routines, and reconnect with the activities and relationships that bring meaning to your life. Many clients begin to feel more hopeful once they understand their symptoms and have a clear plan for managing them."
+    },
+    {
+      "tag": "p",
+      "text": "What You Can Expect at Garden Springs Wellness",
+      "runs": [
+        {
+          "t": "What You Can Expect at Garden Springs Wellness",
+          "b": true
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "A personalized depression treatment plan tailored to your needs"
+    },
+    {
+      "tag": "li",
+      "text": "Therapists who specialize in depression, mood disorders, and related concerns"
+    },
+    {
+      "tag": "li",
+      "text": "Practical coping skills you can use in daily life"
+    },
+    {
+      "tag": "li",
+      "text": "Support with sleep, motivation, and emotional regulation"
+    },
+    {
+      "tag": "li",
+      "text": "A welcoming environment that encourages honesty and growth"
+    },
+    {
+      "tag": "li",
+      "text": "Clear communication about your progress and next steps"
+    },
+    {
+      "tag": "p",
+      "text": "Our goal is to help you feel understood, supported, and empowered. Depression can feel isolating, but you do not have to navigate it alone. With the right treatment, many people experience meaningful and lasting relief."
+    },
+    {
+      "tag": "h2",
+      "text": "What To Do Next About Treating Depression"
+    },
+    {
+      "tag": "p",
+      "text": "If this depression self test raised concerns or confirmed what you have been experiencing, reach out to Garden Springs Wellness. Our team offers compassionate, personalized depression treatment that helps you understand your symptoms and build the skills you need to feel better. This page is here to guide you, and our team is here to support you as you take the next step toward clarity, confidence, and a healthier future.",
+      "runs": [
+        {
+          "t": "If this depression self test raised concerns or confirmed what you have been experiencing, "
+        },
+        {
+          "t": "reach out to Garden Springs Wellness",
+          "href": "/contact-us"
+        },
+        {
+          "t": ". Our team offers compassionate, personalized depression treatment that helps you understand your symptoms and build the skills you need to feel better. This page is here to guide you, and our team is here to support you as you take the next step toward clarity, confidence, and a healthier future."
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "SOURCES:",
+      "runs": [
+        {
+          "t": "SOURCES:",
+          "b": true
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Depression — National Institute of Mental Health (NIMH)Biological, Psychological, and Social Determinants of Depression — NIH PubMed Central",
+      "runs": [
+        {
+          "t": "Depression",
+          "href": "https://www.nimh.nih.gov/health/publications/depression",
+          "ext": true
+        },
+        {
+          "t": " — National Institute of Mental Health (NIMH)"
+        },
+        {
+          "t": "Biological, Psychological, and Social Determinants of Depression",
+          "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8699555/",
+          "ext": true
+        },
+        {
+          "t": " — NIH PubMed Central"
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Depression — National Institute of Mental Health (NIMH)",
+      "runs": [
+        {
+          "t": "Depression",
+          "href": "https://www.nimh.nih.gov/health/publications/depression",
+          "ext": true
+        },
+        {
+          "t": " — National Institute of Mental Health (NIMH)"
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Biological, Psychological, and Social Determinants of Depression — NIH PubMed Central",
+      "runs": [
+        {
+          "t": "Biological, Psychological, and Social Determinants of Depression",
+          "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8699555/",
+          "ext": true
+        },
+        {
+          "t": " — NIH PubMed Central"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/uploads/elementor/thumbs/depression-self-test-woman-rkz3fuk4jidfchtbq9wwuhqos4efyz738yy72dj400.webp",
+      "alt": "Woman sitting on the bedroom floor with her head in her hand, illustrating depression symptoms"
+    },
+    {
+      "src": "/media/uploads/2026/03/depression-symptoms.webp",
+      "alt": "Man sitting on outdoor stairs with head in hands representing depression symptoms"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-copy.webp",
+      "alt": "Aetna black logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-7.webp",
+      "alt": "Horizon Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-2-copy.webp",
+      "alt": "Cigna Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-13.webp",
+      "alt": "Highmark Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-2.webp",
+      "alt": "BlueCross BlueShield Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-9.webp",
+      "alt": "Empire Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-8.webp",
+      "alt": "NYSHIP Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-4.webp",
+      "alt": "Magellan Health Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-5.webp",
+      "alt": "Multiplan Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-6.webp",
+      "alt": "Anthem Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-11.webp",
+      "alt": "GEHA Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-1-copy.webp",
+      "alt": "UnitedHealthcare Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-1.webp",
+      "alt": "Beacon Health Options Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-12.webp",
+      "alt": "HarvardPilgrim HealthCare Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-14.webp",
+      "alt": "UMR Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-15.webp",
+      "alt": "Meritain Health Black Logo"
+    }
+  ],
+  "wordCount": 731
+}

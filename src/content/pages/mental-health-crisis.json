@@ -1,0 +1,421 @@
+{
+  "urlPath": "/mental-health-crisis",
+  "slug": "mental-health-crisis",
+  "title": "Mental Health Crisis Warning Signs & When to Seek Help",
+  "h1": "What Is a Mental Health Crisis? Warning Signs and When to Seek Help",
+  "metaDesc": "Discover what constitutes a mental health crisis, warning signs, and when to seek treatment. Garden Springs Wellness offers outpatient support.",
+  "heroImage": "/media/uploads/2026/05/mental-health-crisis.webp",
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "What Is a Mental Health Crisis? Warning Signs and When to Seek Help",
+      "runs": [
+        {
+          "t": "What Is a Mental Health Crisis?",
+          "b": true
+        },
+        {
+          "t": " Warning Signs and When to Seek Help"
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Reviewed On: May 21, 2026"
+    },
+    {
+      "tag": "p",
+      "text": "A mental health crisis happens when emotional pain or other psychological symptoms become so heavy that it makes everyday life feel impossible to manage. What counts as a crisis is different person-to-person."
+    },
+    {
+      "tag": "p",
+      "text": "One person may experience intense anxiety that stops them from leaving the house. While another may experience deep sadness that makes getting out of bed or caring for themselves difficult."
+    },
+    {
+      "tag": "p",
+      "text": "It’s not just about symptoms. A crisis is about how those feelings affect your ability to live, love, work, care for yourself, and stay connected to others. When daily responsibilities become too much, it’s a sign that extra support can help you feel better."
+    },
+    {
+      "tag": "p",
+      "text": "At Garden Springs Wellness, we believe you deserve care that truly sees you as an individual. Our mental health treatment center in Englewood New Jersey offers personalized programs to help you restore balance and transform your life.",
+      "runs": [
+        {
+          "t": "At Garden Springs Wellness, we believe you deserve care that truly sees you as an individual. Our "
+        },
+        {
+          "t": "mental health treatment center in Englewood New Jersey",
+          "href": "/"
+        },
+        {
+          "t": " offers personalized programs to help you restore balance and transform your life."
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "What a Mental Health Crisis Is and What It Isn’t"
+    },
+    {
+      "tag": "p",
+      "text": "A mental health crisis is a time when emotional pain becomes the sole focus of a person’s life, making it impossible to function. It can develop slowly as symptoms build up or appear more suddenly after a difficult event. The most important part is how much it interferes with your ability to live, work, and care for yourself. And this can look different for everybody."
+    },
+    {
+      "tag": "p",
+      "text": "What a mental health crisis is not:",
+      "runs": [
+        {
+          "t": "What a mental health crisis is not:",
+          "b": true
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "It isn’t a sign of weakness or personal failure."
+    },
+    {
+      "tag": "li",
+      "text": "It isn’t something you must handle completely on your own."
+    },
+    {
+      "tag": "li",
+      "text": "It isn’t the same thing as having a bad day, feeling stressed, or experiencing normal sadness after a hard event."
+    },
+    {
+      "tag": "li",
+      "text": "It isn’t permanent. With the right support, most people stabilize and go on to experience meaningful recovery."
+    },
+    {
+      "tag": "p",
+      "text": "Understanding the difference can help reduce fear and shame around mental health stigma. A crisis simply means your current coping mechanisms aren’t working and that professional help can make a real difference. But you have to be honest with yourself and take the first step."
+    },
+    {
+      "tag": "h2",
+      "text": "What a Mental Health Crisis Can Look Like"
+    },
+    {
+      "tag": "p",
+      "text": "Everyone goes through hard times. Many people choose to manage their anxiety, depression, or stress with self-care or regular therapy. A crisis can develop when these struggles grow stronger or life events feel too heavy."
+    },
+    {
+      "tag": "p",
+      "text": "Here are some real world examples of how a mental health crisis may appear:",
+      "runs": [
+        {
+          "t": "Here are some real world examples of how a mental health crisis may appear:",
+          "b": true
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Someone with depression may reach a point where they can’t get out of bed for days, stop eating, or feel hopeless about the future."
+    },
+    {
+      "tag": "li",
+      "text": "A person experiencing anxiety disorders might have constant panic attacks that make them afraid to drive, go to work, or even answer the phone.",
+      "runs": [
+        {
+          "t": "A person experiencing "
+        },
+        {
+          "t": "anxiety disorders",
+          "href": "/conditions/anxiety-treatment"
+        },
+        {
+          "t": " might have constant panic attacks that make them afraid to drive, go to work, or even answer the phone."
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "With bipolar disorder, extreme mood swings can lead to risky behavior during high periods or complete withdrawal during low periods."
+    },
+    {
+      "tag": "li",
+      "text": "For those with PTSD or trauma, a trigger can bring on intense flashbacks, nightmares, or emotional shutdown that makes normal life feel unsafe.",
+      "runs": [
+        {
+          "t": "For those with "
+        },
+        {
+          "t": "PTSD or trauma",
+          "href": "/conditions/ptsd-trauma"
+        },
+        {
+          "t": ", a trigger can bring on intense flashbacks, nightmares, or emotional shutdown that makes normal life feel unsafe."
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "These moments don’t mean you’ve failed. They simply show that your mind and body need more support right now. At Garden Springs Wellness, we provide compassionate, client-centered care that addresses the whole person, mind, body, and spirit."
+    },
+    {
+      "tag": "h2",
+      "text": "Common Mental Crisis Warning Signs"
+    },
+    {
+      "tag": "p",
+      "text": "Pay attention when several of these signs appear together and begin interfering with daily life."
+    },
+    {
+      "tag": "h3",
+      "text": "Emotional Signs"
+    },
+    {
+      "tag": "li",
+      "text": "Deep sadness or emptiness that will not lift"
+    },
+    {
+      "tag": "li",
+      "text": "Overwhelming anxiety, worry, or panic attacks"
+    },
+    {
+      "tag": "li",
+      "text": "Quick shifts in mood, irritability, or intense anger"
+    },
+    {
+      "tag": "li",
+      "text": "Feelings of hopelessness or worthlessness"
+    },
+    {
+      "tag": "li",
+      "text": "Thoughts of self-harm or not wanting to go on"
+    },
+    {
+      "tag": "h3",
+      "text": "Behavioral Changes"
+    },
+    {
+      "tag": "li",
+      "text": "Pulling away from family and friends"
+    },
+    {
+      "tag": "li",
+      "text": "Trouble keeping up with work, school, or home tasks"
+    },
+    {
+      "tag": "li",
+      "text": "Neglecting personal care like eating, sleeping or hygiene"
+    },
+    {
+      "tag": "li",
+      "text": "Losing interest in things you once loved"
+    },
+    {
+      "tag": "h3",
+      "text": "Physical Indicators"
+    },
+    {
+      "tag": "li",
+      "text": "Big changes in sleep patterns or appetite"
+    },
+    {
+      "tag": "li",
+      "text": "Constant tiredness or low energy levels"
+    },
+    {
+      "tag": "li",
+      "text": "Unexplained aches and restlessness"
+    },
+    {
+      "tag": "p",
+      "text": "If these feelings last for days or continue to get worse, reaching out for help is a strong, positive step you can take today."
+    },
+    {
+      "tag": "h2",
+      "text": "When to Seek Mental Health Treatment"
+    },
+    {
+      "tag": "p",
+      "text": "You don’t need to wait until everything feels completely out of control. Seek help when symptoms start making day-to-day life much harder, or whenever it feels right."
+    },
+    {
+      "tag": "p",
+      "text": "Get immediate help if you or someone you love has thoughts of suicide with a plan, cannot stay safe, or loses touch with reality. Call 911 in an emergency or reach 988 Suicide & Crisis Lifeline anytime, 24/7.."
+    },
+    {
+      "tag": "h2",
+      "text": "How Garden Springs Wellness Can Help You Heal"
+    },
+    {
+      "tag": "p",
+      "text": "We specialize in treating a wide range of conditions, including depression, anxiety disorders, bipolar disorder, PTSD, trauma, and dual-diagnosis situations."
+    },
+    {
+      "tag": "p",
+      "text": "Our multidisciplinary team creates individualized treatment plans that combine therapies such as CBT and DBT with holistic practices like mindfullness, yoga, and wellness activities."
+    },
+    {
+      "tag": "p",
+      "text": "Whether you need intensive daytime structure or more flexible ongoing support, our programs focus on helping you build practical skills, process underlying challenges, and create a stronger foundation for long-term wellness.",
+      "runs": [
+        {
+          "t": "Whether you need "
+        },
+        {
+          "t": "intensive daytime structure",
+          "href": "/treatment/partial-hospitalization"
+        },
+        {
+          "t": " or "
+        },
+        {
+          "t": "more flexible ongoing support",
+          "href": "/treatment/outpatient-program"
+        },
+        {
+          "t": ", our programs focus on helping you build practical skills, process underlying challenges, and create a stronger foundation for long-term wellness."
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "We accept most major insurance plans and work hard to make high-quality care accessible to everyone who needs it."
+    },
+    {
+      "tag": "h2",
+      "text": "You Deserve to Be Well"
+    },
+    {
+      "tag": "p",
+      "text": "At Garden Springs Wellness, we treat conditions like depression, anxiety, bipolar disorder, PTSD, trauma, and more with personalized plans that combine proven therapies and holistic practices. Our focus is on helping you feel whole again."
+    },
+    {
+      "tag": "p",
+      "text": "Healing is possible. If you’re ready to take that next step. You deserve a future free of the weight of trauma, depression, and anxiety. Let us walk beside you on your journey. Reach out today and take the first step towards wellness."
+    },
+    {
+      "tag": "p",
+      "text": "Sources:",
+      "runs": [
+        {
+          "t": "Sources:",
+          "b": true
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "National Institute of Mental Health (NIMH) – Transforming the understanding and treatment of mental illnesses",
+      "runs": [
+        {
+          "t": "National Institute of Mental Health (NIMH) – "
+        },
+        {
+          "t": "Transforming the understanding and treatment of mental illnesses",
+          "href": "https://www.nimh.nih.gov/health/topics",
+          "ext": true
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Substance Abuse and Mental Health Services Administration (SAMHSA) – What is Mental Health?",
+      "runs": [
+        {
+          "t": "Substance Abuse and Mental Health Services Administration (SAMHSA) – "
+        },
+        {
+          "t": "What is Mental Health?",
+          "href": "https://www.samhsa.gov/mental-health/what-is-mental-health",
+          "ext": true
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "National Alliance on Mental Illness (NAMI) – Warning Signs and Symptoms",
+      "runs": [
+        {
+          "t": "National Alliance on Mental Illness (NAMI) – "
+        },
+        {
+          "t": "Warning Signs and Symptoms",
+          "href": "https://www.nami.org/warning-signs-and-symptoms/",
+          "ext": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/uploads/2026/05/man-experiencing-emotional-distress-at-home.webp",
+      "alt": "Man sitting with his face in his hands showing signs of emotional distress"
+    },
+    {
+      "src": "/media/uploads/2026/05/isolated-man-struggling-with-mental-health.webp",
+      "alt": "Man sitting alone in a hallway showing signs of depression and emotional isolation"
+    },
+    {
+      "src": "/media/uploads/2026/05/woman-processing-emotional-trauma.webp",
+      "alt": "Woman sitting quietly during a mental health therapy session while appearing emotionally overwhelmed"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-copy.webp",
+      "alt": "Aetna black logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-7.webp",
+      "alt": "Horizon Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-2-copy.webp",
+      "alt": "Cigna Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-13.webp",
+      "alt": "Highmark Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-2.webp",
+      "alt": "BlueCross BlueShield Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-9.webp",
+      "alt": "Empire Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-8.webp",
+      "alt": "NYSHIP Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-4.webp",
+      "alt": "Magellan Health Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-5.webp",
+      "alt": "Multiplan Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-6.webp",
+      "alt": "Anthem Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-11.webp",
+      "alt": "GEHA Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-1-copy.webp",
+      "alt": "UnitedHealthcare Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-1.webp",
+      "alt": "Beacon Health Options Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-12.webp",
+      "alt": "HarvardPilgrim HealthCare Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-14.webp",
+      "alt": "UMR Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-15.webp",
+      "alt": "Meritain Health Black Logo"
+    }
+  ],
+  "wordCount": 957
+}

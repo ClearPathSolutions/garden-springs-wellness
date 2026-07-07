@@ -1,0 +1,695 @@
+{
+  "urlPath": "/parental-mental-health-and-child",
+  "slug": "parental-mental-health-and-child",
+  "title": "Parental Mental Health and Child Well-being | Get Help",
+  "h1": "Parental Mental Health and Child Well-being",
+  "metaDesc": "Discover how parental mental health impacts child development. Expert guidance on protecting families while managing mental illness. Call us now.",
+  "heroImage": "/media/uploads/2025/12/Parental-Mental-Health-1024x681.webp",
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "Parental Mental Health and Child Well-being"
+    },
+    {
+      "tag": "h2",
+      "text": "Introduction"
+    },
+    {
+      "tag": "p",
+      "text": "Raising children while managing your own mental health challenges isn’t just difficult—it’s one of the most courageous undertakings you’ll ever face. Moreover, the intersection of parenting and mental health creates a delicate balance that demands both vulnerability and strength. At Garden Springs Wellness, we understand that parental mental health doesn’t exist in isolation; rather, it ripples through every interaction, every milestone, and every ordinary moment you share with your children. Consequently, addressing these challenges head-on becomes not just beneficial, but essential for both you and your family’s wellbeing. Furthermore, when parents with mental illness receive proper support and treatment, families don’t just survive—they thrive."
+    },
+    {
+      "tag": "h3",
+      "text": "You Don't Have to Face This Alone"
+    },
+    {
+      "tag": "h2",
+      "text": "What Impact Does a Parent’s Mental Illness Have on Children?"
+    },
+    {
+      "tag": "p",
+      "text": "The impact of parental mental health on children manifests in subtle yet profound ways. Research consistently demonstrates that children of parents with mental illness face elevated risks for emotional and behavioral challenges [1]. However, it’s crucial to understand that these risks aren’t inevitable outcomes. Instead, they represent possibilities that can be mitigated through awareness, intervention, and comprehensive family support.",
+      "runs": [
+        {
+          "t": "The impact of parental mental health on children manifests in subtle yet profound ways. Research consistently demonstrates that children of parents with mental illness face elevated risks for emotional and behavioral challenges "
+        },
+        {
+          "t": "[1]",
+          "href": "https://www.apa.org/about/policy/parents-disabilities.pdf",
+          "ext": true
+        },
+        {
+          "t": ". However, it’s crucial to understand that these risks aren’t inevitable outcomes. Instead, they represent possibilities that can be mitigated through awareness, intervention, and comprehensive family support."
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Children often become remarkably attuned to their parents’ emotional states. Consequently, when parental mental illness remains untreated or unacknowledged, children may interpret their parent’s symptoms as personal rejection or evidence of their own inadequacy [2]. Nevertheless, studies show that when parents openly address their mental health conditions while maintaining consistent caregiving routines, children develop remarkable resilience and emotional intelligence. Additionally, the parent’s mental health impacts not just emotional development but also cognitive functioning, social skills, and even physical health outcomes in children [3].",
+      "runs": [
+        {
+          "t": "Children often become remarkably attuned to their parents’ emotional states. Consequently, when parental mental illness remains untreated or unacknowledged, children may interpret their parent’s symptoms as personal rejection or evidence of their own inadequacy "
+        },
+        {
+          "t": "[2]",
+          "href": "https://mhalc.org/wp-content/uploads/2013/01/When-a-Parent-Has-a-Mental-Illness-Interventions-and-Services-for-Families.pdf",
+          "ext": true
+        },
+        {
+          "t": ". Nevertheless, studies show that when parents openly address their mental health conditions while maintaining consistent caregiving routines, children develop remarkable resilience and emotional intelligence. Additionally, the parent’s mental health impacts not just emotional development but also cognitive functioning, social skills, and even physical health outcomes in children "
+        },
+        {
+          "t": "[3]",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/8313308/",
+          "ext": true
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Will My Child Have a Mental Health Condition As Well?"
+    },
+    {
+      "tag": "p",
+      "text": "This question weighs heavily on every parent managing mental health challenges. Indeed, genetic predisposition plays a role in mental illness inherited from mother or father, yet genetics represents only one piece of a complex puzzle. Furthermore, environmental factors, coping mechanisms, and available support systems significantly influence whether children develop mental health conditions themselves."
+    },
+    {
+      "tag": "p",
+      "text": "Research indicates that children of mentally ill parents face approximately two to three times the risk of developing mental health issues compared to children whose parents don’t have these conditions [1]. However, this statistic shouldn’t instill fear. Rather, it should empower you to implement protective factors early. Moreover, understanding this risk allows families to establish preventive measures, maintain open communication, and create supportive environments that foster resilience. Additionally, early intervention programs specifically designed for families where parental mental illness exists have shown remarkable success in preventing the intergenerational transmission of mental health challenges [5].",
+      "runs": [
+        {
+          "t": "Research indicates that children of mentally ill parents face approximately two to three times the risk of developing mental health issues compared to children whose parents don’t have these conditions "
+        },
+        {
+          "t": "[1]",
+          "href": "https://www.apa.org/about/policy/parents-disabilities.pdf",
+          "ext": true
+        },
+        {
+          "t": ". However, this statistic shouldn’t instill fear. Rather, it should empower you to implement protective factors early. Moreover, understanding this risk allows families to establish preventive measures, maintain open communication, and create supportive environments that foster resilience. Additionally, early intervention programs specifically designed for families where parental mental illness exists have shown remarkable success in preventing the intergenerational transmission of mental health challenges "
+        },
+        {
+          "t": "[5]",
+          "href": "https://www.researchgate.net/profile/Joanne-Nicholson-3/publication/228764495_The_Invisible_Children%27s_Project_A_Family-Centered_Intervention_for_Parents_with_Mental_Illness/links/0912f50a274d4a9b13000000/The-Invisible-Childrens-Project-A-Family-Centered-Intervention-for-Parents-with-Mental-Illness.pdf",
+          "ext": true
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Risk Factors"
+    },
+    {
+      "tag": "p",
+      "text": "Understanding risk factors helps families navigate parental mental health challenges more effectively. Several key elements can intensify the impact of a parent’s mental illness on their children’s development."
+    },
+    {
+      "tag": "p",
+      "text": "Severity and chronicity of the parent’s condition significantly influence outcomes. Additionally, factors such as family conflict, social isolation, economic hardship, and lack of supportive relationships compound these challenges. Furthermore, when parenting with mental illness occurs without adequate treatment or support systems, children face increased vulnerability to adverse outcomes [2]. Nevertheless, identifying these risk factors early allows families to seek targeted interventions and build protective buffers around their children.",
+      "runs": [
+        {
+          "t": "Severity and chronicity of the parent’s condition significantly influence outcomes. Additionally, factors such as family conflict, social isolation, economic hardship, and lack of supportive relationships compound these challenges. Furthermore, when parenting with mental illness occurs without adequate treatment or support systems, children face increased vulnerability to adverse outcomes "
+        },
+        {
+          "t": "[2]",
+          "href": "https://mhalc.org/wp-content/uploads/2013/01/When-a-Parent-Has-a-Mental-Illness-Interventions-and-Services-for-Families.pdf",
+          "ext": true
+        },
+        {
+          "t": ". Nevertheless, identifying these risk factors early allows families to seek targeted interventions and build protective buffers around their children."
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Risk Factors Table:",
+      "runs": [
+        {
+          "t": "Risk Factors Table:",
+          "b": true
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Protective Factors"
+    },
+    {
+      "tag": "p",
+      "text": "Remarkably, numerous protective factors can buffer children from the potential negative effects of parental mental health challenges. First and foremost, parents’ engagement in consistent mental health treatment dramatically reduces risks. Moreover, maintaining stable daily routines, fostering open family communication, and ensuring children have access to other supportive adult relationships create resilience."
+    },
+    {
+      "tag": "p",
+      "text": "Strong social support networks prove particularly valuable. Consequently, when families actively engage with community resources, support groups, and extended family members, children develop multiple sources of security and stability. Additionally, parents’ ability to maintain appropriate boundaries between their illness and their parenting responsibilities protects children’s emotional wellbeing. Furthermore, when children receive age-appropriate education about mental health, they develop understanding rather than fear, knowledge rather than confusion [4].",
+      "runs": [
+        {
+          "t": "Strong social support networks prove particularly valuable. Consequently, when families actively engage with community resources, support groups, and extended family members, children develop multiple sources of security and stability. Additionally, parents’ ability to maintain appropriate boundaries between their illness and their parenting responsibilities protects children’s emotional wellbeing. Furthermore, when children receive age-appropriate education about mental health, they develop understanding rather than fear, knowledge rather than confusion "
+        },
+        {
+          "t": "[4]",
+          "href": "https://www.sciencedirect.com/science/article/abs/pii/S2352552524000513",
+          "ext": true
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "The Prevention Perspective"
+    },
+    {
+      "tag": "p",
+      "text": "Prevention strategies offer powerful tools for families navigating parental mental illness. Rather than waiting for problems to emerge, proactive approaches strengthen family resilience from the outset. Therefore, early intervention programs that support both parents and children simultaneously yield the most promising outcomes."
+    },
+    {
+      "tag": "p",
+      "text": "The Invisible Children’s Project, a groundbreaking family-centered intervention, demonstrates how targeted support can prevent adverse outcomes in children of parents with mental illness [5]. Similarly, comprehensive programs addressing parental mental health while simultaneously supporting children’s development create protective environments where families flourish. Moreover, these prevention-focused approaches recognize that parenting and mental health aren’t competing priorities—they’re interconnected aspects of family wellness that require integrated support.",
+      "runs": [
+        {
+          "t": "The Invisible Children’s Project, a groundbreaking family-centered intervention, demonstrates how targeted support can prevent adverse outcomes in children of parents with mental illness "
+        },
+        {
+          "t": "[5]",
+          "href": "https://www.researchgate.net/profile/Joanne-Nicholson-3/publication/228764495_The_Invisible_Children%27s_Project_A_Family-Centered_Intervention_for_Parents_with_Mental_Illness/links/0912f50a274d4a9b13000000/The-Invisible-Childrens-Project-A-Family-Centered-Intervention-for-Parents-with-Mental-Illness.pdf",
+          "ext": true
+        },
+        {
+          "t": ". Similarly, comprehensive programs addressing parental mental health while simultaneously supporting children’s development create protective environments where families flourish. Moreover, these prevention-focused approaches recognize that parenting and mental health aren’t competing priorities—they’re interconnected aspects of family wellness that require integrated support."
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "How Do I Talk to My Child About My Mental Health Condition?"
+    },
+    {
+      "tag": "p",
+      "text": "Addressing your mental health condition with your children ranks among parenting’s most challenging conversations. Nevertheless, honesty appropriately tailored to your child’s developmental level builds trust and reduces confusion. Consequently, experts recommend using simple, concrete language that explains your condition without burdening children with adult-level details."
+    },
+    {
+      "tag": "p",
+      "text": "Start by reassuring children that your condition isn’t their fault and that you’re receiving help. Additionally, explain specific symptoms they might notice using age-appropriate terms. For instance, instead of clinical diagnoses, describe observable behaviors: “Sometimes Mom feels very sad and needs quiet time to rest.” Furthermore, emphasize that treatment helps you feel better and that loving adults are working together to ensure everyone stays safe and supported. Moreover, encouraging questions and maintaining ongoing dialogue prevents misunderstandings and reduces children’s anxiety about your condition [1].",
+      "runs": [
+        {
+          "t": "Start by reassuring children that your condition isn’t their fault and that you’re receiving help. Additionally, explain specific symptoms they might notice using age-appropriate terms. For instance, instead of clinical diagnoses, describe observable behaviors: “Sometimes Mom feels very sad and needs quiet time to rest.” Furthermore, emphasize that treatment helps you feel better and that loving adults are working together to ensure everyone stays safe and supported. Moreover, encouraging questions and maintaining ongoing dialogue prevents misunderstandings and reduces children’s anxiety about your condition "
+        },
+        {
+          "t": "[1]",
+          "href": "https://www.apa.org/about/policy/parents-disabilities.pdf",
+          "ext": true
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "What Can I Expect From My Child?"
+    },
+    {
+      "tag": "p",
+      "text": "Children’s responses to parental mental illness vary dramatically based on age, temperament, and family dynamics. Younger children might display regression in previously mastered skills or increased clinginess. Conversely, adolescents might exhibit anger, withdrawal, or premature independence. However, these reactions represent normal adaptations to challenging circumstances rather than permanent character changes."
+    },
+    {
+      "tag": "p",
+      "text": "Some children become remarkably empathetic and mature beyond their years—a phenomenon psychologists call “parentification” that requires careful monitoring to prevent role reversal. Meanwhile, other children might struggle academically, socially, or emotionally. Nevertheless, most children demonstrate remarkable resilience when provided consistent support, appropriate boundaries, and opportunities to express their feelings safely [2]. Additionally, recognizing that children’s responses fluctuate over time helps parents maintain perspective during difficult periods.",
+      "runs": [
+        {
+          "t": "Some children become remarkably empathetic and mature beyond their years—a phenomenon psychologists call “parentification” that requires careful monitoring to prevent role reversal. Meanwhile, other children might struggle academically, socially, or emotionally. Nevertheless, most children demonstrate remarkable resilience when provided consistent support, appropriate boundaries, and opportunities to express their feelings safely "
+        },
+        {
+          "t": "[2]",
+          "href": "https://mhalc.org/wp-content/uploads/2013/01/When-a-Parent-Has-a-Mental-Illness-Interventions-and-Services-for-Families.pdf",
+          "ext": true
+        },
+        {
+          "t": ". Additionally, recognizing that children’s responses fluctuate over time helps parents maintain perspective during difficult periods."
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Be the Best Parent You Can Be"
+    },
+    {
+      "tag": "p",
+      "text": "Excellence in parenting while managing mental health challenges doesn’t mean perfection. Instead, it means showing up consistently, seeking help when needed, and demonstrating that managing mental health for parents represents strength rather than weakness. Moreover, modeling healthy coping strategies teaches children invaluable life skills they’ll carry into adulthood."
+    },
+    {
+      "tag": "p",
+      "text": "Focus on maintaining predictable routines, expressing unconditional love, and celebrating small victories. Furthermore, recognize that your willingness to address your mental health challenges models crucial lessons about self-care, vulnerability, and resilience. Additionally, engaging with family therapy at Garden Springs Wellness provides structured support that strengthens parent-child bonds while addressing mental health needs comprehensively. Ultimately, your children need you healthy more than they need you perfect."
+    },
+    {
+      "tag": "h2",
+      "text": "How Can I Care for a Child While Caring for Myself?"
+    },
+    {
+      "tag": "p",
+      "text": "Balancing self-care with parenting responsibilities creates one of mental health and parenting’s central paradoxes. Nevertheless, treating your own mental health isn’t selfish—it’s essential for effective parenting. Consequently, establishing a comprehensive treatment plan becomes your family’s foundation rather than a luxury."
+    },
+    {
+      "tag": "p",
+      "text": "At Garden Springs Wellness, our programs specifically address the unique challenges of parenting with mental health problems through flexible scheduling, family-inclusive therapies, and comprehensive support services. Moreover, our intensive outpatient (IOP) and partial hospitalization programs allow parents to receive robust treatment while maintaining family connections. Additionally, case management services help coordinate childcare, transportation, and other practical needs that might otherwise create barriers to treatment. Furthermore, joining support groups for parents with mental health issues provides peer connections that reduce isolation and offer practical strategies for managing both parenting and mental health simultaneously [4].",
+      "runs": [
+        {
+          "t": "At Garden Springs Wellness, our programs specifically address the unique challenges of parenting with mental health problems through flexible scheduling, family-inclusive therapies, and comprehensive support services. Moreover, our intensive outpatient (IOP) and partial hospitalization programs allow parents to receive robust treatment while maintaining family connections. Additionally, case management services help coordinate childcare, transportation, and other practical needs that might otherwise create barriers to treatment. Furthermore, joining support groups for parents with mental health issues provides peer connections that reduce isolation and offer practical strategies for managing both parenting and mental health simultaneously "
+        },
+        {
+          "t": "[4]",
+          "href": "https://www.sciencedirect.com/science/article/abs/pii/S2352552524000513",
+          "ext": true
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Could I Lose My Child Because I Have a Mental Health Condition?"
+    },
+    {
+      "tag": "p",
+      "text": "This fear haunts many parents struggling with mental illness. However, having a mental health condition alone doesn’t constitute grounds for losing custody. Instead, courts focus on whether parents can safely meet their children’s basic needs, maintain stable environments, and demonstrate engagement with appropriate treatment when necessary."
+    },
+    {
+      "tag": "p",
+      "text": "Does mental illness affect child custody decisions? Yes, but context matters enormously. Courts consider whether untreated parental mental illness compromises children’s safety or wellbeing. Conversely, parents actively managing their conditions through treatment, medication compliance, and appropriate support systems typically maintain custody. Moreover, documenting your treatment engagement, maintaining stable housing, and demonstrating consistent parenting capabilities protects your parental rights [1].",
+      "runs": [
+        {
+          "t": "Does mental illness affect child custody decisions? Yes, but context matters enormously. Courts consider whether untreated parental mental illness compromises children’s safety or wellbeing. Conversely, parents actively managing their conditions through treatment, medication compliance, and appropriate support systems typically maintain custody. Moreover, documenting your treatment engagement, maintaining stable housing, and demonstrating consistent parenting capabilities protects your parental rights "
+        },
+        {
+          "t": "[1]",
+          "href": "https://www.apa.org/about/policy/parents-disabilities.pdf",
+          "ext": true
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Legal Issues"
+    },
+    {
+      "tag": "p",
+      "text": "Understanding legal protections helps parents with mental health issues navigate custody concerns confidently. The Americans with Disabilities Act (ADA) prohibits discrimination based solely on mental health diagnoses. Additionally, family courts must evaluate actual parenting capabilities rather than making assumptions based on diagnostic labels alone."
+    },
+    {
+      "tag": "p",
+      "text": "Can you lose custody for depression and anxiety? Generally, no—not if you’re managing these conditions appropriately. Courts examine whether symptoms impair parenting judgment or create unsafe environments. However, proactive engagement with mental health treatment demonstrates parental responsibility and commitment to your children’s welfare. Furthermore, working with experienced family law attorneys who understand mental health issues ensures your rights receive proper protection. Additionally, gathering documentation from your treatment providers at Garden Springs Wellness substantiates your ongoing commitment to wellness and effective parenting [3].",
+      "runs": [
+        {
+          "t": "Can you lose custody for depression and anxiety? Generally, no—not if you’re managing these conditions appropriately. Courts examine whether symptoms impair parenting judgment or create unsafe environments. However, proactive engagement with mental health treatment demonstrates parental responsibility and commitment to your children’s welfare. Furthermore, working with experienced family law attorneys who understand mental health issues ensures your rights receive proper protection. Additionally, gathering documentation from your treatment providers at Garden Springs Wellness substantiates your ongoing commitment to wellness and effective parenting "
+        },
+        {
+          "t": "[3]",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/8313308/",
+          "ext": true
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Final Thoughts"
+    },
+    {
+      "tag": "p",
+      "text": "Parental mental health challenges don’t define your worth as a parent. Rather, your willingness to address these challenges while maintaining your commitment to your children demonstrates extraordinary strength and love. Moreover, accessing comprehensive support through programs like those at Garden Springs Wellness transforms individual struggles into family healing journeys.",
+      "runs": [
+        {
+          "t": "Parental mental health challenges don’t define your worth as a parent. Rather, your willingness to address these challenges while maintaining your commitment to your children demonstrates extraordinary strength and love. Moreover, accessing comprehensive support through programs like those at "
+        },
+        {
+          "t": "Garden Springs Wellness",
+          "href": "/"
+        },
+        {
+          "t": " transforms individual struggles into family healing journeys."
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Remember that dealing with mentally ill parents—whether you’re the parent managing the condition or supporting someone who is—requires patience, professional support, and community resources. Our team at Garden Springs Wellness provides 24/7 access to expert care, family therapy, individual counseling, and comprehensive treatment programs specifically designed for parents navigating mental health challenges. Furthermore, our holistic approach addresses not just symptoms but the complete family system, ensuring everyone receives necessary support."
+    },
+    {
+      "tag": "p",
+      "text": "Children need healthy parents more than perfect ones. Consequently, prioritizing your mental health treatment becomes the most powerful gift you can give your family. Additionally, by seeking help now, you’re breaking intergenerational cycles and modeling resilience that will benefit your children throughout their lives. Contact us today if you are experiencing mental health issues to find treatment tailored for you.",
+      "runs": [
+        {
+          "t": "Children need healthy parents more than perfect ones. Consequently, prioritizing your mental health treatment becomes the most powerful gift you can give your family. Additionally, by seeking help now, you’re breaking intergenerational cycles and modeling resilience that will benefit your children throughout their lives. "
+        },
+        {
+          "t": "Contact us today",
+          "href": "/contact-us"
+        },
+        {
+          "t": " if you are experiencing mental health issues to find treatment tailored for you."
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "tag": "p",
+      "text": "1. How does mental health affect child development in families where parents have mental illness?",
+      "runs": [
+        {
+          "t": "1. How does mental health affect child development in families where parents have mental illness?",
+          "b": true
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Parental mental health significantly influences children’s emotional, cognitive, and social development. However, when parents actively engage in treatment and maintain consistent caregiving routines, children typically develop strong coping skills and resilience. Moreover, early intervention and family-centered support programs substantially reduce potential negative impacts on child development."
+    },
+    {
+      "tag": "p",
+      "text": "2. Can parents with mental health issues maintain custody of their children?",
+      "runs": [
+        {
+          "t": "2. Can parents with mental health issues maintain custody of their children?",
+          "b": true
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Absolutely. Having a mental health condition doesn’t automatically affect custody rights. Courts focus on whether parents can safely meet children’s needs and maintain stable environments. Furthermore, demonstrating active treatment engagement, medication compliance, and appropriate support systems typically ensures parents maintain custody rights."
+    },
+    {
+      "tag": "p",
+      "text": "3. What support services exist for children of parents with mental illness?",
+      "runs": [
+        {
+          "t": "3. What support services exist for children of parents with mental illness?",
+          "b": true
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Numerous support services exist, including family therapy, individual counseling for children, psychoeducational groups, and specialized programs like The Invisible Children’s Project. Additionally, schools often provide counseling services, and community organizations offer support groups for children affected by parental mental illness."
+    },
+    {
+      "tag": "p",
+      "text": "4. Should I tell my children about my mental health condition?",
+      "runs": [
+        {
+          "t": "4. Should I tell my children about my mental health condition?",
+          "b": true
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Yes, using age-appropriate language helps children understand what they observe rather than creating frightening fantasies. Moreover, honest communication builds trust and reduces stigma. Explain your condition in simple terms, reassure children it’s not their fault, and emphasize that you’re receiving help to feel better."
+    },
+    {
+      "tag": "p",
+      "text": "5. How can I protect my child from developing mental health issues?",
+      "runs": [
+        {
+          "t": "5. How can I protect my child from developing mental health issues?",
+          "b": true
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "While you cannot eliminate all risk, protective factors significantly reduce likelihood of children developing conditions. Maintain consistent treatment for your own mental health, create stable routines, foster open communication, ensure children have supportive relationships with other adults, and access early intervention services when needed. Additionally, teaching healthy coping strategies and emotional regulation skills provides children with lifelong protective tools."
+    },
+    {
+      "tag": "h2",
+      "text": "Sources"
+    },
+    {
+      "tag": "p",
+      "text": "[1] American Psychological Association. (2008). Parents with Disabilities and Their Families: Psychological Factors. – https://www.apa.org/about/policy/parents-disabilities.pdf",
+      "runs": [
+        {
+          "t": "[1]",
+          "href": "https://www.apa.org/about/policy/parents-disabilities.pdf",
+          "ext": true
+        },
+        {
+          "t": " American Psychological Association. (2008). Parents with Disabilities and Their Families: Psychological Factors. – "
+        },
+        {
+          "t": "https://www.apa.org/about/policy/parents-disabilities.pdf",
+          "href": "https://www.apa.org/about/policy/parents-disabilities.pdf",
+          "ext": true
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[2] Mental Health Association of Los Angeles County. (2013). When a Parent Has a Mental Illness: Interventions and Services for Families. – https://mhalc.org/wp-content/uploads/2013/01/When-a-Parent-Has-a-Mental-Illness-Interventions-and-Services-for-Families.pdf",
+      "runs": [
+        {
+          "t": "[2]",
+          "href": "https://mhalc.org/wp-content/uploads/2013/01/When-a-Parent-Has-a-Mental-Illness-Interventions-and-Services-for-Families.pdf",
+          "ext": true
+        },
+        {
+          "t": " Mental Health Association of Los Angeles County. (2013). When a Parent Has a Mental Illness: Interventions and Services for Families. – "
+        },
+        {
+          "t": "https://mhalc.org/wp-content/uploads/2013/01/When-a-Parent-Has-a-Mental-Illness-Interventions-and-Services-for-Families.pdf",
+          "href": "https://mhalc.org/wp-content/uploads/2013/01/When-a-Parent-Has-a-Mental-Illness-Interventions-and-Services-for-Families.pdf",
+          "ext": true
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[3] Oyserman, D., Mowbray, C. T., Meares, P. A., & Firminger, K. B. (1993). Parenting among mothers with a serious mental illness. American Journal of Orthopsychiatry, 63(1), 113-125. – https://pubmed.ncbi.nlm.nih.gov/8313308/",
+      "runs": [
+        {
+          "t": "[3]",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/8313308/",
+          "ext": true
+        },
+        {
+          "t": " Oyserman, D., Mowbray, C. T., Meares, P. A., & Firminger, K. B. (1993). Parenting among mothers with a serious mental illness. American Journal of Orthopsychiatry, 63(1), 113-125. – "
+        },
+        {
+          "t": "https://pubmed.ncbi.nlm.nih.gov/8313308/",
+          "href": "https://pubmed.ncbi.nlm.nih.gov/8313308/",
+          "ext": true
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[4] Reedtz, C., Lauritzen, C., & van Doesum, K. T. M. (2024). Children of parents with mental illness: Recent developments in preventive interventions. Current Opinion in Psychiatry, 37(4), 293-299. – https://www.sciencedirect.com/science/article/abs/pii/S2352552524000513",
+      "runs": [
+        {
+          "t": "[4]",
+          "href": "https://www.sciencedirect.com/science/article/abs/pii/S2352552524000513",
+          "ext": true
+        },
+        {
+          "t": " Reedtz, C., Lauritzen, C., & van Doesum, K. T. M. (2024). Children of parents with mental illness: Recent developments in preventive interventions. Current Opinion in Psychiatry, 37(4), 293-299. – "
+        },
+        {
+          "t": "https://www.sciencedirect.com/science/article/abs/pii/S2352552524000513",
+          "href": "https://www.sciencedirect.com/science/article/abs/pii/S2352552524000513",
+          "ext": true
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "[5] Nicholson, J., Henry, A. D., Clayfield, J. C., & Phillips, S. M. (2001). The Invisible Children’s Project: A Family-Centered Intervention for Parents with Mental Illness. – https://www.researchgate.net/profile/Joanne-Nicholson-3/publication/228764495_The_Invisible_Children%27s_Project_A_Family-Centered_Intervention_for_Parents_with_Mental_Illness/links/0912f50a274d4a9b13000000/The-Invisible-Childrens-Project-A-Family-Centered-Intervention-for-Parents-with-Mental-Illness.pdf",
+      "runs": [
+        {
+          "t": "[5]",
+          "href": "https://www.researchgate.net/profile/Joanne-Nicholson-3/publication/228764495_The_Invisible_Children%27s_Project_A_Family-Centered_Intervention_for_Parents_with_Mental_Illness/links/0912f50a274d4a9b13000000/The-Invisible-Childrens-Project-A-Family-Centered-Intervention-for-Parents-with-Mental-Illness.pdf",
+          "ext": true
+        },
+        {
+          "t": " Nicholson, J., Henry, A. D., Clayfield, J. C., & Phillips, S. M. (2001). The Invisible Children’s Project: A Family-Centered Intervention for Parents with Mental Illness. – "
+        },
+        {
+          "t": "https://www.researchgate.net/profile/Joanne-Nicholson-3/publication/228764495_The_Invisible_Children%27s_Project_A_Family-Centered_Intervention_for_Parents_with_Mental_Illness/links/0912f50a274d4a9b13000000/The-Invisible-Childrens-Project-A-Family-Centered-Intervention-for-Parents-with-Mental-Illness.pdf",
+          "href": "https://www.researchgate.net/profile/Joanne-Nicholson-3/publication/228764495_The_Invisible_Children%27s_Project_A_Family-Centered_Intervention_for_Parents_with_Mental_Illness/links/0912f50a274d4a9b13000000/The-Invisible-Childrens-Project-A-Family-Centered-Intervention-for-Parents-with-Mental-Illness.pdf",
+          "ext": true
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "Fb"
+    },
+    {
+      "tag": "li",
+      "text": "Tw"
+    },
+    {
+      "tag": "li",
+      "text": "Ln"
+    },
+    {
+      "tag": "li",
+      "text": "Pn"
+    },
+    {
+      "tag": "p",
+      "text": "Balancing mental health treatment with life’s daily demands can be challenging. Whether you’re w"
+    },
+    {
+      "tag": "p",
+      "text": "Anxiety is a normal response to stressful situations—it helps you stay alert and respond to challe"
+    },
+    {
+      "tag": "p",
+      "text": "Mental health challenges don’t exist in isolation; they affect not just the individual but the rel"
+    },
+    {
+      "tag": "h4",
+      "text": "Clinically Reviewed by Beth Rivera, LCADC, CCS"
+    },
+    {
+      "tag": "p",
+      "text": "Beth Rivera, LCADC, CCS is the Clinical Director at Garden Springs Wellness with nearly two decades of clinical experience."
+    },
+    {
+      "tag": "h2",
+      "text": "request a Callback"
+    },
+    {
+      "tag": "h2",
+      "text": "Recent Articles"
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/uploads/2025/12/Parental-Mental-Health-scaled.webp",
+      "alt": "Parental Mental Health - Alt Text"
+    },
+    {
+      "src": "/media/uploads/2025/12/Parental-Mental-Health-2.webp",
+      "alt": "Parental Mental Health - Alt Text"
+    },
+    {
+      "src": "/media/uploads/2025/12/Parental-Mental-Health-3.webp",
+      "alt": "Parental Mental Health - Alt Text"
+    },
+    {
+      "src": "/media/uploads/2025/12/Parental-Mental-Health-4.webp",
+      "alt": "Parental Mental Health - Alt Text"
+    },
+    {
+      "src": "/media/uploads/2025/06/kelly-sikkema-f_aHTIof44U-unsplash-scaled.webp",
+      "alt": "What to Expect from an Evening Mental Health IOP"
+    },
+    {
+      "src": "/media/uploads/2025/01/caleb-flores-LmJsjFI7hsk-unsplash-scaled.webp",
+      "alt": "Signs Someone Has an Anxiety Disorder"
+    },
+    {
+      "src": "/media/uploads/2025/03/kateryna-hliznitsova-sqO__ZMb454-unsplash-scaled.webp",
+      "alt": "How Couples Therapy can Heal Relationships Impacted by Mental Health"
+    },
+    {
+      "src": "/media/uploads/2025/11/AdobeStock_236113508.webp",
+      "alt": "Picture of Clinically Reviewed by Beth Rivera, LCADC, CCS"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-copy.webp",
+      "alt": "Aetna black logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-7.webp",
+      "alt": "Horizon Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-2-copy.webp",
+      "alt": "Cigna Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-13.webp",
+      "alt": "Highmark Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-2.webp",
+      "alt": "BlueCross BlueShield Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-9.webp",
+      "alt": "Empire Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-8.webp",
+      "alt": "NYSHIP Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-4.webp",
+      "alt": "Magellan Health Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-5.webp",
+      "alt": "Multiplan Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-6.webp",
+      "alt": "Anthem Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-11.webp",
+      "alt": "GEHA Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-1-copy.webp",
+      "alt": "UnitedHealthcare Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-1.webp",
+      "alt": "Beacon Health Options Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-12.webp",
+      "alt": "HarvardPilgrim HealthCare Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-14.webp",
+      "alt": "UMR Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-15.webp",
+      "alt": "Meritain Health Black Logo"
+    },
+    {
+      "src": "/media/uploads/2026/03/fmla-mental-health-treatment.webp",
+      "alt": "Can You Use FMLA for Mental Health Treatment?"
+    },
+    {
+      "src": "/media/uploads/2026/01/Catastrophic-Thinking-5.webp",
+      "alt": "Catastrophizing: How To Stop Catastrophic Thinking"
+    },
+    {
+      "src": "/media/uploads/2026/02/benefits-of-rest-9-scaled-1.webp",
+      "alt": "Benefits of Rest for Mental Health Treatment"
+    }
+  ],
+  "wordCount": 2216
+}

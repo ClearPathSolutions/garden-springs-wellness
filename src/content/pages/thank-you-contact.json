@@ -1,0 +1,60 @@
+{
+  "urlPath": "/thank-you-contact",
+  "slug": "thank-you-contact",
+  "title": "Thank You - Contact - Garden Springs Wellness",
+  "h1": "We will get in touch with you shortly.",
+  "metaDesc": "Contact us to learn more about how our boutique mental health treatment services in North Jersey can help you find your path to long-term healing &",
+  "heroImage": null,
+  "blocks": [
+    {
+      "tag": "h2",
+      "text": "Thanks for contacting us!"
+    },
+    {
+      "tag": "h1",
+      "text": "We will get in touch with you shortly."
+    },
+    {
+      "tag": "h3",
+      "text": "We're here to help day or night. No matter what."
+    },
+    {
+      "tag": "p",
+      "text": "Contact us to learn more about how our boutique mental health treatment services in North Jersey can help you find your path to long-term healing & wellness. Our trusted professionals are standing by ready to help."
+    },
+    {
+      "tag": "h3",
+      "text": "Address"
+    },
+    {
+      "tag": "h3",
+      "text": "Hours"
+    },
+    {
+      "tag": "p",
+      "text": "Mon-Frid: 08:00AM-10:00PM Weekends: 10:00AM-4:00PM"
+    },
+    {
+      "tag": "h3",
+      "text": "Contact"
+    },
+    {
+      "tag": "p",
+      "text": "(877) 537-7905 [email protected]"
+    },
+    {
+      "tag": "h2",
+      "text": "Come Visit Us"
+    },
+    {
+      "tag": "h3",
+      "text": "Send Us a Message"
+    },
+    {
+      "tag": "p",
+      "text": "We'll get back to you as soon as possible."
+    }
+  ],
+  "images": [],
+  "wordCount": 85
+}

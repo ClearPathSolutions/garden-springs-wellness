@@ -1,0 +1,172 @@
+{
+  "urlPath": "/about-us",
+  "slug": "about-us",
+  "title": "About Us | Learn More About Garden Springs Wellness",
+  "h1": "More About Us",
+  "metaDesc": "Learn everything about Garden Springs Wellness, including our treatment programs and the mental health conditions we treat. Call us today.",
+  "heroImage": "/media/uploads/2026/04/garden-springs-wellness-38.webp",
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "More About Us"
+    },
+    {
+      "tag": "h2",
+      "text": "Welcome to Garden Springs Wellness Where Healing Meets Innovation.",
+      "runs": [
+        {
+          "t": "Welcome to "
+        },
+        {
+          "t": "Garden Springs Wellness",
+          "b": true
+        },
+        {
+          "t": " Where Healing Meets Innovation."
+        }
+      ]
+    },
+    {
+      "tag": "li",
+      "text": "About Us"
+    },
+    {
+      "tag": "h3",
+      "text": "Garden Springs Wellness is lead by a team of innovative, industry leaders who are on a mission to provide the most effective, personalized care for mental health conditions throughout the TriState area."
+    },
+    {
+      "tag": "p",
+      "text": "At Garden Springs Wellness, we know that no two humans are alike, which is why our programming is rooted in client-centered, customized care that is based on each client’s unique individual needs. Through our industry-leading approach to mental health treatment, we can promise every client that you will be treated with the individualized attention you deserve.",
+      "runs": [
+        {
+          "t": "At Garden Springs Wellness, we know that no two humans are alike, which is why our programming is rooted in client-centered, customized care that is based on each client’s unique individual needs. Through our industry-leading approach to "
+        },
+        {
+          "t": "mental health treatment",
+          "href": "/",
+          "b": true
+        },
+        {
+          "t": ", we can promise every client that you will be treated with the individualized attention you deserve."
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Our program is rooted in client-centered care, building each client's unique treatment experience around their individual needs."
+    },
+    {
+      "tag": "p",
+      "text": "We take a full mind, body, and spirit approach to mental health & wellness with our integrative approach to mental healthcare."
+    },
+    {
+      "tag": "p",
+      "text": "Through a variety of holistic approaches like yoga therapy, breathwork and more, we are able offer spiritual and physical healing."
+    },
+    {
+      "tag": "p",
+      "text": "No posts were found for provided query parameters."
+    },
+    {
+      "tag": "h2",
+      "text": "Restore Your Balance. Transform Your Life."
+    },
+    {
+      "tag": "p",
+      "text": "Welcome to a new era of mental health treatment in New Jersey and beyond at Garden Springs Wellness. We have assembled a team of multidisciplinary professionals to help you live your best life."
+    },
+    {
+      "tag": "p",
+      "text": "You deserve a future free of trauma, depression and anxiety.",
+      "runs": [
+        {
+          "t": "You deserve a future free of trauma, depression and anxiety",
+          "b": true,
+          "i": true
+        },
+        {
+          "t": "."
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "text": "Let us help you begin your journey today."
+    }
+  ],
+  "images": [
+    {
+      "src": "/media/uploads/2026/04/garden-springs-wellness-38.webp",
+      "alt": "Waiting in the lobby of Garden Springs Wellness"
+    },
+    {
+      "src": "/media/uploads/2026/04/garden-springs-wellness-41.webp",
+      "alt": "Seating in a mental health treatment center"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-copy.webp",
+      "alt": "Aetna black logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-7.webp",
+      "alt": "Horizon Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-2-copy.webp",
+      "alt": "Cigna Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-13.webp",
+      "alt": "Highmark Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-2.webp",
+      "alt": "BlueCross BlueShield Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-9.webp",
+      "alt": "Empire Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-8.webp",
+      "alt": "NYSHIP Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-4.webp",
+      "alt": "Magellan Health Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-5.webp",
+      "alt": "Multiplan Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-6.webp",
+      "alt": "Anthem Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-11.webp",
+      "alt": "GEHA Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-1-copy.webp",
+      "alt": "UnitedHealthcare Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-1.webp",
+      "alt": "Beacon Health Options Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-12.webp",
+      "alt": "HarvardPilgrim HealthCare Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-14.webp",
+      "alt": "UMR Black Logo"
+    },
+    {
+      "src": "/media/uploads/2024/11/insurance-15.webp",
+      "alt": "Meritain Health Black Logo"
+    }
+  ],
+  "wordCount": 225
+}
