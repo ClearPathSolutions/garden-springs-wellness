@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { PageHero } from "@/components/PageHero";
 import { Container, Eyebrow } from "@/components/ui";
 import { LeadForm } from "@/components/forms/LeadForm";
@@ -21,6 +22,15 @@ const steps = [
 export default function VerifyInsurancePage() {
   return (
     <>
+      {/* Clarion Labs form capture — intercepts the insurance form's submit
+          (matched via data-clarion-form="insurance_verification"). */}
+      <Script
+        src="https://www.clarionlabs.ai/forms-capture.v1.js"
+        data-site-key="cpx_VQ5hBCcgttbYesmhRRyyIIHQnp-LotQ2"
+        data-api="https://api.clarionlabs.ai"
+        strategy="afterInteractive"
+      />
+
       <PageHero
         eyebrow="Insurance Verification"
         title="Get a free verification of benefits"

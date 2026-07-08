@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Cormorant_Garamond, DM_Sans } from "next/font/google";
 import { site } from "@/lib/site";
 import { Header } from "@/components/Header";
@@ -102,6 +103,13 @@ export default function RootLayout({
         <main id="main">{children}</main>
         <Footer />
         <Reveal />
+        {/* Clarion Labs chat widget — loaded site-wide during browser idle. */}
+        <Script
+          src="https://www.clarionlabs.ai/widget.v1.js"
+          data-site-key="cpx_VQ5hBCcgttbYesmhRRyyIIHQnp-LotQ2"
+          data-api="https://api.clarionlabs.ai"
+          strategy="lazyOnload"
+        />
       </body>
     </html>
   );

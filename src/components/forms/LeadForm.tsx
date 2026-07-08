@@ -4,6 +4,7 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { site } from "@/lib/site";
 import { ArrowRight, ShieldIcon } from "@/components/icons";
+import { ProviderCombobox } from "@/components/forms/ProviderCombobox";
 
 type Variant = "contact" | "insurance" | "callback";
 
@@ -24,7 +25,14 @@ export function LeadForm({ variant = "contact" }: { variant?: Variant }) {
   const router = useRouter();
   const [status, setStatus] = useState<"idle" | "submitting" | "error">("idle");
   const [error, setError] = useState("");
+  // Controlled value for the provider combobox (insurance variant only).
+  const [provider, setProvider] = useState("");
   const cfg = config[variant];
+
+  // The insurance form is captured by Clarion's forms-capture.v1.js via the
+  // data-clarion-form attribute, so it submits natively — we must NOT
+  // preventDefault or run our own fetch, or Clarion never sees the submit.
+  const isClarionCaptured = variant === "insurance";
 
   async function onSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
@@ -53,7 +61,12 @@ export function LeadForm({ variant = "contact" }: { variant?: Variant }) {
   }
 
   return (
-    <form onSubmit={onSubmit} className="space-y-4" noValidate>
+    <form
+      {...(isClarionCaptured
+        ? { "data-clarion-form": "insurance_verification" }
+        : { onSubmit, noValidate: true })}
+      className="space-y-4"
+    >
       <div className="grid gap-4 sm:grid-cols-2">
         <div>
           <label htmlFor="name" className={labelBase}>Full name*</label>
@@ -71,16 +84,38 @@ export function LeadForm({ variant = "contact" }: { variant?: Variant }) {
       </div>
 
       {variant === "insurance" && (
-        <div className="grid gap-4 sm:grid-cols-2">
-          <div>
-            <label htmlFor="insurer" className={labelBase}>Insurance provider</label>
-            <input id="insurer" name="insurer" className={inputBase} placeholder="e.g. Aetna, Cigna, Horizon" />
+        <>
+          <div className="grid gap-4 sm:grid-cols-2">
+            <div>
+              <label htmlFor="dob" className={labelBase}>Date of birth*</label>
+              <input
+                id="dob"
+                name="dob"
+                type="date"
+                required
+                autoComplete="bday"
+                className={inputBase}
+              />
+            </div>
+            <div>
+              <label htmlFor="memberId" className={labelBase}>Member ID</label>
+              <input id="memberId" name="memberId" className={inputBase} placeholder="Optional" />
+            </div>
           </div>
+
           <div>
-            <label htmlFor="memberId" className={labelBase}>Member ID</label>
-            <input id="memberId" name="memberId" className={inputBase} placeholder="Optional" />
+            <label htmlFor="insurer" className={labelBase}>Insurance provider*</label>
+            <ProviderCombobox
+              id="insurer"
+              name="insurer"
+              required
+              value={provider}
+              onChange={setProvider}
+              placeholder="Start typing, e.g. Aetna, Cigna, Horizon"
+              className={inputBase}
+            />
           </div>
-        </div>
+        </>
       )}
 
       <div>
@@ -114,6 +149,7 @@ export function LeadForm({ variant = "contact" }: { variant?: Variant }) {
       <p className="sr-only" aria-live="polite">
         {status === "submitting" ? "Submitting your request" : ""}
       </p>
+      <input type="hidden" name="formType" value={cfg.formType} />
       <input type="hidden" name="_variant" value={variant} />
     </form>
   );
