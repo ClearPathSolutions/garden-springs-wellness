@@ -10,11 +10,11 @@ type Variant = "contact" | "insurance" | "callback";
 
 const config: Record<
   Variant,
-  { thankYou: string; submit: string; formType: string }
+  { thankYou: string; submit: string; formType: string; clarionForm: string }
 > = {
-  contact: { thankYou: "/thank-you-contact", submit: "Send message", formType: "Contact" },
-  insurance: { thankYou: "/thank-you-insurance", submit: "Verify my benefits", formType: "Insurance Verification" },
-  callback: { thankYou: "/thank-you-callback", submit: "Request a call", formType: "Callback Request" },
+  contact: { thankYou: "/thank-you-contact", submit: "Send message", formType: "Contact", clarionForm: "contact" },
+  insurance: { thankYou: "/thank-you-insurance", submit: "Verify my benefits", formType: "Insurance Verification", clarionForm: "insurance_verification" },
+  callback: { thankYou: "/thank-you-callback", submit: "Request a call", formType: "Callback Request", clarionForm: "callback" },
 };
 
 const inputBase =
@@ -29,10 +29,10 @@ export function LeadForm({ variant = "contact" }: { variant?: Variant }) {
   const [provider, setProvider] = useState("");
   const cfg = config[variant];
 
-  // The insurance form is captured by Clarion's forms-capture.v1.js via the
-  // data-clarion-form attribute, so it submits natively — we must NOT
+  // The contact and insurance forms are captured by Clarion's forms-capture.v1.js
+  // via the data-clarion-form attribute, so they submit natively — we must NOT
   // preventDefault or run our own fetch, or Clarion never sees the submit.
-  const isClarionCaptured = variant === "insurance";
+  const isClarionCaptured = variant === "insurance" || variant === "contact";
 
   async function onSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
@@ -63,7 +63,7 @@ export function LeadForm({ variant = "contact" }: { variant?: Variant }) {
   return (
     <form
       {...(isClarionCaptured
-        ? { "data-clarion-form": "insurance_verification" }
+        ? { "data-clarion-form": cfg.clarionForm }
         : { onSubmit, noValidate: true })}
       className="space-y-4"
     >

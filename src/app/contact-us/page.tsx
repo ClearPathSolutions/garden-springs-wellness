@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import { PageHero } from "@/components/PageHero";
 import { Container, Eyebrow } from "@/components/ui";
 import { LeadForm } from "@/components/forms/LeadForm";
@@ -21,6 +22,15 @@ const details = [
 export default function ContactPage() {
   return (
     <>
+      {/* Clarion Labs form capture — intercepts the contact form's submit
+          (matched via data-clarion-form="contact"). */}
+      <Script
+        src="https://www.clarionlabs.ai/forms-capture.v1.js"
+        data-site-key="cpx_VQ5hBCcgttbYesmhRRyyIIHQnp-LotQ2"
+        data-api="https://api.clarionlabs.ai"
+        strategy="afterInteractive"
+      />
+
       <PageHero
         eyebrow="Get in Touch"
         title="Contact Garden Springs Wellness"
