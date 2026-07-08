@@ -209,3 +209,74 @@ body {
     transform: none;
   }
 }
+
+/* ============================================================
+   Clarion Labs chat widget — brand theming
+   The widget renders as light-DOM elements (.clarion-*), driven by
+   an accent color it sets inline. We override its accent variables and
+   the inline-styled elements to match the forest-green / gold brand.
+   Inline styles from the widget require !important to override.
+   ============================================================ */
+.clarion-chat {
+  /* Accent variables the widget reads for focus rings, etc. */
+  --clarion-accent: var(--color-forest-900);
+  --clarion-accent-soft: rgba(20, 49, 42, 0.16);
+  /* Fonts + message log tinted to match the site's sand surfaces */
+  --clarion-ff: var(--font-sans);
+  --clarion-log: var(--color-sand);
+  --clarion-ink: var(--color-ink);
+}
+
+/* Launcher bubble (background is set inline by the widget) */
+.clarion-chat .clarion-launcher {
+  background: var(--color-forest-900) !important;
+}
+.clarion-chat .clarion-launcher:hover {
+  background: var(--color-forest-800) !important;
+}
+
+/* Header bar */
+.clarion-chat .clarion-head {
+  background: var(--color-forest-900) !important;
+}
+.clarion-chat .clarion-head-title {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* Outgoing (user) message bubbles */
+.clarion-chat .clarion-msg.out {
+  background: var(--color-forest-900) !important;
+}
+
+/* Send button — forest, with a gold-tinted lift on hover */
+.clarion-chat .clarion-send {
+  background: var(--color-forest-900) !important;
+}
+.clarion-chat .clarion-send:hover:not(:disabled) {
+  background: var(--color-forest-800) !important;
+  filter: none;
+}
+
+/* Quick-reply choice chips */
+.clarion-chat .clarion-choice {
+  border-color: var(--color-forest-600) !important;
+  color: var(--color-forest-900) !important;
+}
+.clarion-chat .clarion-choice:hover {
+  background: var(--color-forest-900) !important;
+  color: #fff !important;
+}
+
+/* Message log — warm sand surface to match the site (the widget's own
+   rule sets a cool gray at equal specificity, so target the element). */
+.clarion-chat .clarion-log {
+  background: var(--color-sand) !important;
+}
+
+/* Input focus ring in the brand green */
+.clarion-chat .clarion-input:focus {
+  border-color: var(--color-forest-600) !important;
+  box-shadow: 0 0 0 3px rgba(20, 49, 42, 0.16) !important;
+}
