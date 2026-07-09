@@ -1,20 +1,46 @@
 "use client";
 
 import { useState } from "react";
-import { useRouter } from "next/navigation";
 import { site } from "@/lib/site";
-import { ArrowRight, ShieldIcon } from "@/components/icons";
+import { ArrowRight, Check, PhoneIcon, ShieldIcon } from "@/components/icons";
 import { ProviderCombobox } from "@/components/forms/ProviderCombobox";
 
 type Variant = "contact" | "insurance" | "callback";
 
 const config: Record<
   Variant,
-  { thankYou: string; submit: string; formType: string; clarionForm: string }
+  {
+    submit: string;
+    formType: string;
+    clarionForm: string;
+    successTitle: string;
+    successBody: string;
+  }
 > = {
-  contact: { thankYou: "/thank-you-contact", submit: "Send message", formType: "Contact", clarionForm: "contact" },
-  insurance: { thankYou: "/thank-you-insurance", submit: "Verify my benefits", formType: "Insurance Verification", clarionForm: "insurance_verification" },
-  callback: { thankYou: "/thank-you-callback", submit: "Request a call", formType: "Callback Request", clarionForm: "callback" },
+  contact: {
+    submit: "Send message",
+    formType: "Contact",
+    clarionForm: "contact",
+    successTitle: "Thank you for contacting us",
+    successBody:
+      "An admissions specialist will be reaching out to you shortly.",
+  },
+  insurance: {
+    submit: "Verify my benefits",
+    formType: "Insurance Verification",
+    clarionForm: "insurance_verification",
+    successTitle: "Thank you for submitting your insurance details",
+    successBody:
+      "We'll be running a verification of your insurance benefits. An admissions specialist will be reaching out to you shortly to walk you through your coverage and options.",
+  },
+  callback: {
+    submit: "Request a call",
+    formType: "Callback Request",
+    clarionForm: "callback",
+    successTitle: "Thank you for reaching out",
+    successBody:
+      "An admissions specialist will be reaching out to you shortly.",
+  },
 };
 
 const inputBase =
@@ -22,19 +48,18 @@ const inputBase =
 const labelBase = "mb-1.5 block text-sm font-semibold text-forest-900";
 
 export function LeadForm({ variant = "contact" }: { variant?: Variant }) {
-  const router = useRouter();
-  const [status, setStatus] = useState<"idle" | "submitting" | "error">("idle");
+  const [status, setStatus] = useState<"idle" | "submitting" | "success" | "error">("idle");
   const [error, setError] = useState("");
   // Controlled value for the provider combobox (insurance variant only).
   const [provider, setProvider] = useState("");
   const cfg = config[variant];
 
-  // The contact and insurance forms are captured by Clarion's forms-capture.v1.js
-  // via the data-clarion-form attribute, so they submit natively — we must NOT
-  // preventDefault or run our own fetch, or Clarion never sees the submit.
-  const isClarionCaptured = variant === "insurance" || variant === "contact";
-
   async function onSubmit(e: React.FormEvent<HTMLFormElement>) {
+    // We own the submit UX (prevent the browser's native navigation/refresh
+    // and show an inline confirmation). Clarion's forms-capture.v1.js listens
+    // on the same submit event as a fire-and-forget side POST — it reads the
+    // form's FormData synchronously before this preventDefault matters, so the
+    // lead is still captured by Clarion. See data-clarion-form on the <form>.
     e.preventDefault();
     setStatus("submitting");
     setError("");
@@ -44,6 +69,7 @@ export function LeadForm({ variant = "contact" }: { variant?: Variant }) {
     payload.formType = cfg.formType;
 
     try {
+      // Backup server-side record (Clarion capture runs independently).
       const res = await fetch("/api/lead", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -53,18 +79,38 @@ export function LeadForm({ variant = "contact" }: { variant?: Variant }) {
         const j = await res.json().catch(() => ({}));
         throw new Error(j.error || "Something went wrong. Please call us instead.");
       }
-      router.push(cfg.thankYou);
+      setStatus("success");
     } catch (err) {
       setStatus("error");
       setError(err instanceof Error ? err.message : "Please try again or call us.");
     }
   }
 
+  if (status === "success") {
+    return (
+      <div className="rounded-2xl border border-forest-900/10 bg-forest-50 p-8 text-center" role="status" aria-live="polite">
+        <div className="mx-auto mb-5 flex h-14 w-14 items-center justify-center rounded-full bg-forest-900 text-cream">
+          <Check className="h-7 w-7" />
+        </div>
+        <h3 className="font-display text-2xl text-forest-900">{cfg.successTitle}</h3>
+        <p className="mx-auto mt-3 max-w-md text-muted">{cfg.successBody}</p>
+        <p className="mt-6 flex items-center justify-center gap-2 text-sm text-forest-900">
+          <ShieldIcon className="h-4 w-4 text-forest-600" />
+          Prefer to talk now? Call{" "}
+          <a href={site.phone.primaryHref} className="inline-flex items-center gap-1 font-semibold text-forest-800 underline">
+            <PhoneIcon className="h-3.5 w-3.5" />
+            {site.phone.primary}
+          </a>
+        </p>
+      </div>
+    );
+  }
+
   return (
     <form
-      {...(isClarionCaptured
-        ? { "data-clarion-form": cfg.clarionForm }
-        : { onSubmit, noValidate: true })}
+      data-clarion-form={cfg.clarionForm}
+      onSubmit={onSubmit}
+      noValidate
       className="space-y-4"
     >
       <div className="grid gap-4 sm:grid-cols-2">
