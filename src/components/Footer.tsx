@@ -66,7 +66,7 @@ export function Footer() {
           <div className="flex flex-col gap-3 sm:flex-row">
             <a
               href={site.phone.primaryHref}
-              className="inline-flex items-center justify-center gap-2 rounded-full bg-gold-500 px-7 py-4 font-semibold text-forest-950 transition-colors hover:bg-gold-400"
+              className="inline-flex items-center justify-center gap-2 rounded-full bg-gold-500 px-7 py-4 font-semibold text-forest-950 transition-colors hover:bg-gold-400" suppressHydrationWarning
             >
               <PhoneIcon className="h-4 w-4" />
               Call {site.phone.primary}
@@ -124,7 +124,7 @@ export function Footer() {
 
         {/* Contact strip */}
         <div className="mt-12 grid gap-4 border-t border-cream/10 pt-8 text-sm sm:grid-cols-3">
-          <a href={site.phone.primaryHref} className="flex items-center gap-3 hover:text-cream">
+          <a href={site.phone.primaryHref} className="flex items-center gap-3 hover:text-cream" suppressHydrationWarning>
             <PhoneIcon className="h-4 w-4 text-gold-400" />
             {site.phone.primary}
           </a>

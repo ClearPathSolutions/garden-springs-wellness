@@ -25,7 +25,7 @@ export function CTASection({
             <div className="mt-8 flex flex-col justify-center gap-3 sm:flex-row">
               <a
                 href={site.phone.primaryHref}
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-gold-500 px-7 py-4 font-semibold text-forest-950 transition-colors hover:bg-gold-400"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-gold-500 px-7 py-4 font-semibold text-forest-950 transition-colors hover:bg-gold-400" suppressHydrationWarning
               >
                 <PhoneIcon className="h-4 w-4" />
                 Call {site.phone.primary}

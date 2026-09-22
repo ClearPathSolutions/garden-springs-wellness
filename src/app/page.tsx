@@ -125,7 +125,7 @@ export default function Home() {
             <div className="mt-9 flex flex-col gap-3 sm:flex-row">
               <a
                 href={site.phone.primaryHref}
-                className="inline-flex items-center justify-center gap-2 rounded-full bg-gold-500 px-8 py-4 text-base font-semibold text-forest-950 shadow-soft transition-colors hover:bg-gold-400"
+                className="inline-flex items-center justify-center gap-2 rounded-full bg-gold-500 px-8 py-4 text-base font-semibold text-forest-950 shadow-soft transition-colors hover:bg-gold-400" suppressHydrationWarning
               >
                 <PhoneIcon className="h-5 w-5" />
                 Call {site.phone.primary}
@@ -434,11 +434,11 @@ export default function Home() {
       <Section tone="forest" className="!py-14">
         <Container>
           <div className="grid gap-8 text-center sm:grid-cols-3 sm:text-left">
-            <a href={site.phone.primaryHref} className="flex flex-col items-center gap-2 sm:flex-row sm:items-start">
+            <a href={site.phone.primaryHref} className="flex flex-col items-center gap-2 sm:flex-row sm:items-start" suppressHydrationWarning>
               <span className="flex h-11 w-11 items-center justify-center rounded-xl bg-cream/10 text-gold-400"><PhoneIcon className="h-5 w-5" /></span>
               <span>
                 <span className="eyebrow block text-gold-400">Call Us</span>
-                <span className="text-cream">{site.phone.primary}</span>
+                <span className="text-cream" suppressHydrationWarning>{site.phone.primary}</span>
               </span>
             </a>
             <a href={site.address.mapsHref} target="_blank" rel="noopener noreferrer" className="flex flex-col items-center gap-2 sm:flex-row sm:items-start">

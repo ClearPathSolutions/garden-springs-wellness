@@ -16,7 +16,7 @@ export default function NotFound() {
           <Button href="/" variant="gold" size="lg">Back to Home</Button>
           <a
             href={site.phone.primaryHref}
-            className="inline-flex items-center justify-center gap-2 rounded-full border border-cream/30 px-7 py-4 font-semibold text-cream transition-colors hover:bg-cream hover:text-forest-950"
+            className="inline-flex items-center justify-center gap-2 rounded-full border border-cream/30 px-7 py-4 font-semibold text-cream transition-colors hover:bg-cream hover:text-forest-950" suppressHydrationWarning
           >
             <PhoneIcon className="h-4 w-4" />
             Call {site.phone.primary}

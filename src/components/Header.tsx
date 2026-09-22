@@ -50,7 +50,7 @@ export function Header() {
               <ShieldIcon className="h-3.5 w-3.5 text-gold-400" />
               Most major PPO &amp; POS insurance accepted
             </span>
-            <a href={site.phone.primaryHref} className="flex items-center gap-2 font-semibold hover:text-gold-300">
+            <a href={site.phone.primaryHref} className="flex items-center gap-2 font-semibold hover:text-gold-300" suppressHydrationWarning>
               <PhoneIcon className="h-3.5 w-3.5 text-gold-400" />
               {site.phone.primary}
             </a>
@@ -109,7 +109,7 @@ export function Header() {
             </Link>
             <a
               href={site.phone.primaryHref}
-              className="flex items-center gap-2 whitespace-nowrap rounded-full bg-gold-500 px-4 py-2.5 text-sm font-semibold text-forest-950 shadow-soft transition-colors hover:bg-gold-400"
+              className="flex items-center gap-2 whitespace-nowrap rounded-full bg-gold-500 px-4 py-2.5 text-sm font-semibold text-forest-950 shadow-soft transition-colors hover:bg-gold-400" suppressHydrationWarning
             >
               <PhoneIcon className="h-4 w-4 shrink-0" />
               {site.phone.primary}
@@ -121,7 +121,7 @@ export function Header() {
             <a
               href={site.phone.primaryHref}
               aria-label={`Call ${site.phone.primary}`}
-              className="flex h-11 w-11 items-center justify-center rounded-full bg-gold-500 text-forest-950 shadow-soft"
+              className="flex h-11 w-11 items-center justify-center rounded-full bg-gold-500 text-forest-950 shadow-soft" suppressHydrationWarning
             >
               <PhoneIcon className="h-5 w-5" />
             </a>
@@ -221,7 +221,7 @@ export function Header() {
           <div className="space-y-3 border-t border-forest-900/10 bg-white/60 px-5 py-5">
             <a
               href={site.phone.primaryHref}
-              className="flex w-full items-center justify-center gap-2 rounded-full bg-forest-900 px-5 py-3.5 font-semibold text-cream"
+              className="flex w-full items-center justify-center gap-2 rounded-full bg-forest-900 px-5 py-3.5 font-semibold text-cream" suppressHydrationWarning
             >
               <PhoneIcon className="h-4 w-4" />
               Call {site.phone.primary}

@@ -97,7 +97,7 @@ export function LeadForm({ variant = "contact" }: { variant?: Variant }) {
         <p className="mt-6 flex items-center justify-center gap-2 text-sm text-forest-900">
           <ShieldIcon className="h-4 w-4 text-forest-600" />
           Prefer to talk now? Call{" "}
-          <a href={site.phone.primaryHref} className="inline-flex items-center gap-1 font-semibold text-forest-800 underline">
+          <a href={site.phone.primaryHref} className="inline-flex items-center gap-1 font-semibold text-forest-800 underline" suppressHydrationWarning>
             <PhoneIcon className="h-3.5 w-3.5" />
             {site.phone.primary}
           </a>
@@ -187,7 +187,7 @@ export function LeadForm({ variant = "contact" }: { variant?: Variant }) {
       <p className="flex items-center gap-2 pt-1 text-xs text-muted">
         <ShieldIcon className="h-3.5 w-3.5 text-forest-500" />
         Your information is 100% confidential. Prefer to talk now? Call{" "}
-        <a href={site.phone.primaryHref} className="font-semibold text-forest-800 underline">
+        <a href={site.phone.primaryHref} className="font-semibold text-forest-800 underline" suppressHydrationWarning>
           {site.phone.primary}
         </a>
         .

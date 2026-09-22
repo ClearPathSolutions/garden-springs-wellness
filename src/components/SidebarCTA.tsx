@@ -15,7 +15,7 @@ export function SidebarCTA({ related }: { related?: RegistryEntry[] }) {
         </p>
         <a
           href={site.phone.primaryHref}
-          className="mt-5 flex w-full items-center justify-center gap-2 rounded-full bg-gold-500 px-5 py-3.5 font-semibold text-forest-950 transition-colors hover:bg-gold-400"
+          className="mt-5 flex w-full items-center justify-center gap-2 rounded-full bg-gold-500 px-5 py-3.5 font-semibold text-forest-950 transition-colors hover:bg-gold-400" suppressHydrationWarning
         >
           <PhoneIcon className="h-4 w-4" />
           {site.phone.primary}
